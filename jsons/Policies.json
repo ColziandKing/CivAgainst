@@ -129,6 +129,14 @@
                 "row": 2,
                 "column": 3
             },
+		{
+                "name": "Hero of the People",
+                "uniques": [
+                    "[+20]% Great Person generation [in all cities]"
+                ],
+                "row": 3,
+                "column": 3
+            },
             {
                 "name": "Liberty Complete",
                 "uniques": ["Free Great Person"]
