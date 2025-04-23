@@ -57,6 +57,15 @@
                 "column": 3
             },
             {
+                "name": "Aristocracy",
+                "uniques": [
+                    "[+15]% Production when constructing [All] wonders [in all cities]",
+                    "[+1 Happiness] per [10] population [in all cities]"
+                ],
+                "row": 3,
+                "column": 3
+            },
+            {
                 "name": "Tradition Complete",
                 "uniques": [
                     "[+15]% Production when constructing [All] wonders [in all cities]"
