@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Fire Godess",
+        "type": "Pantheon",
+        "uniques": [
+            "[+2 Faith] from every [Geothermal Fissure]",
+            "[+2 Faith] from every [Volcanic Soil]",
+            "[+2 Faith] from every [Volcano]"
+        ]
+    },
+    {
+        "name": "City Patron Deity",
+        "type": "Pantheon",
+        "uniques": [
+            "[+25]% Production when constructing [All] buildings [in this city] <before the [Medieval era]>"
+        ]
+    },
+    {
+        "name": "City Patron Saint",
+        "type": "Follower",
+        "uniques": [
+            "[+25]% Production when constructing [All] buildings [in this city] <after the [Medieval era]>"
+        ]
+    },
+]
