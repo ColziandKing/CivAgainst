@@ -386,7 +386,7 @@
                 		"name": "United Front",
                 		"uniques": [
                     		"Militaristic City-States grant units [3] times as fast when you are at war with a common nation <hidden from users>",			
-                    "[-100]% weight to this choice for AI decisions"
+                    "Military Units gifted from City-States start with [+225] XP","[-100]% weight to this choice for AI decisions"
                 			],
                 			"row": 1,
                 			"column": 5
