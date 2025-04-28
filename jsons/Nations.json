@@ -55,8 +55,10 @@
 		"innerColor": [0, 0, 0],
 		"favoredReligion": "Catholicism",
 		"uniqueName": "Blackadder Dynasty & Baldrick's Cunning Plan",
-		"uniques": ["Gain a free [Castle] [in capital]",
-			"Starts with [Monarchy] adopted",
+		"uniques": ["Gain a free [Castle] [in capital]","Starts with [Monarchy] adopted",
+			"Promotes all spies [1] time(s) <when espionage is enabled>", 
+			"New spies start with [1] level(s) <when espionage is enabled>",
+			"[+1 Culture, +1 Happiness] per [6] social policies adopted",
 			"[+10]% [Food] <when between [25] and [50] Happiness>",
 			"[+10]% [Faith] <when between [-5] and [-100] Happiness>"
 		],
