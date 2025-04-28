@@ -19,7 +19,7 @@
 	{
 		"name": "Bahay Kubo",
                 "replaces": "Granary",
-		"uniqueTo": "The Philippines", 
+		"uniqueTo": "Philippines", 
 		"cost": 30,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
@@ -131,7 +131,6 @@
         "uniques": [
             "Unsellable",
 			"Doubles Gold given to enemy if city is captured","Unbuildable",
-			"Hidden when religion is disabled",
             "Only available <when religion is enabled>",
             "Only available <in cities with a [Wat] religion>",
             "Will not be displayed in Civilopedia"
