@@ -97,7 +97,7 @@
 			"When declaring friendship, both parties gain a [25]% boost to great person generation",
 			"Provides [1] [Jewelry]","[+1 Culture] per [4] population [in all cities]",
 		],
-		"spyNames": ["Uzaine", "Vassalia"],
+		"spyNames": ["Uzaine", "Andor", "Vassalia"],
 
 		"cities": ["Buenlyssia","Gabina","Nicono","Pathrica","Diwayville","Jambini","Cassia","Lanita Yella","Ceygoa","Lorea"]
 	},
