@@ -1,4 +1,39 @@
-
+{
+		"name": "Khevsur",
+		"uniqueTo": "Georgia",
+		"replaces": "Pikeman",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 56,
+		"cost": 160,
+		"requiredTech": "Civil Service",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"upgradesTo": "Musketman",
+		"uniques": [
+			"Double movement in [Hill]",
+			"[+47]% Strength <when fighting in [Hill] tiles>"
+		],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Llanero",
+		"uniqueTo": "Gran Colombia",
+		"replaces": "Cavalry",
+		"unitType": "Mounted",
+		"movement": 5,
+		"strength": 93,
+		"cost": 330,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"requiredResource": "Horses",
+		"upgradesTo": "Landship",
+		"uniques": [
+			"[+40]% Strength <when adjacent to a [Llanero] unit>",
+			"[-60]% maintenance costs"
+		],
+		"attackSound": "horse"
+	},
 		{
 				"name": "Hunting & Gathering",
 				"row": 7,
