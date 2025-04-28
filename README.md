@@ -1,6 +1,6 @@
 # 2nd-Unciv-coding
 Hopefully will work
-
+"[+100 Gold] [in capital] <for [Freedom] Civilizations>"
 	{
 		"name": "Saludonia",
 		"adjective": ["Salumian"],
