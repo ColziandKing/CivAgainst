@@ -168,8 +168,21 @@
 			"Cannot build [Settler] units <hidden from users>","[+6 Culture] from every [Landmark]",]
 		"cities": ["Azibhania Fortspance","Uemsphire Citadel","Ravimines Deposit","Umiratae","Karavany","Harimyar Ount"]
 	},
-	//Morestates
 	
+	//Morestates
+	{
+		"name": "Saludonia",
+		"adjective": ["Salumian"],
+		"cityStateType": "Cultured",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "You fiend! History shall remember this!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255,0,255],
+		"cities": ["Saludon"]
+	},
 	{
 		"name": "Leono",
 		"adjective": ["Salveolites"],
