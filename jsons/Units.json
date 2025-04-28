@@ -1,5 +1,20 @@
 [
 	{
+		"name": "Infiltrator",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 10,
+		"cost": 200,
+		"requiredTech": "Scientific Theory",
+		"uniques": ["Ignores terrain cost",
+			"Invisible to non-adjacent units",
+			"Can see invisible [Land] units",
+			"May enter foreign tiles without open borders",
+			"[+1] Sight",
+			"Withdraws before melee combat <with [50]% chance>"],
+		"attackSound": "nonmetalhit"
+	},
+	{
 		"name": "Diplomat",
 		"unitType": "Civilian",
 		"uniques": ["May enter foreign tiles without open borders", "May Paradrop up to [10] tiles from inside friendly territory", "Can undertake a trade mission with City-State, giving a large sum of gold and [90] Influence", "Unbuildable", "Uncapturable"
