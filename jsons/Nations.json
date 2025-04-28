@@ -23,7 +23,7 @@
 		"innerColor": [255,255,0], 
 		"uniqueName": "Allied Domain Rule",
 		"uniques": [
-			"[+33]% Strength <when fighting units from a Civilization with more Cities than you> <in [Friendly Land] tiles>",
+			"[+33]% Strength <when fighting units from a Civilization with more Cities than you> <in [Friendly Land] tiles>","[+100 Gold] [in capital] <for [Freedom] Civilizations>",
 			"Science gained from research agreements [+25]%","When declaring friendship, both parties gain a [25]% boost to great person generation",
 			"Provides [1] [Glass]","Cannot build [Scout] units <hidden from users>","Cannot build [Archery] units <hidden from users>",
 		],
@@ -159,8 +159,8 @@
 		"cities": ["Saludonia","Libro-Saldos","Saludon","Saludos","Villavicencio", "Santa Marianna", "Buenaventura", "San Andres", "Peacesee", "Sofia", "Leticia","Sal Kristell","Sal Kristina"]
 	},
 	{
-		"name": "Umiratie Dynasty",
-		"leaderName": "Caloriosum Umiratie",
+		"name": "Umiratae Dynasty",
+		"leaderName": "Caloriosum Umiratae",
 		"adjective": ["Naisamtalts"],
 		"startBias": ["Oasis","Desert","Avoid [Jungle]","Avoid [Forest]"],
 		"preferredVictoryType": "Cultural",
@@ -187,7 +187,7 @@
 		"outerColor": [41,83,42],
 		"innerColor": [146,221,9],
 		"uniqueName": "Cultural Conquest",
-		"uniques": ["Free [Great Artist] appears <upon discovering [Drama and Poetry]>",
+		"uniques": ["Free [Great Artist] appears <upon discovering [Drama and Poetry]>","Cannot build [Settler] units <hidden from users>",
 			   "[+6 Culture] from every [Landmark]","[Great Artist] is earned [25]% faster",
 			   "Earn [100]% of killed [Military] unit's [Strength] as [Culture]","[+1 Culture, +2 Gold] from each Trade Route"],
 		"cities": ["Umiratae","Karavany","Harimyar Ount"]
