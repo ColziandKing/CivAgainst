@@ -10,7 +10,7 @@
 		"startIntroPart1": "Oh Raymond! You who formed a nation of people for God to saved, glorious you are. Thanks be to the mighty Father, you've united people from different places and colors. Lastly the rule which is far beyond greater than any empire, so this empire of empire is not like any other.",
                 "startIntroPart2": "Honored kingly Colziand, the people have long admired the steady hand of governance you wield. Will you conquer all those who oppose you, or strive for peaceful relations? Quote: 'It is much more blessed to give, than to receive.' Will you once more rule the world for the Lord's will be done?",
 	  	
-		"declaringWar": "Hence, Forth!",
+		"declaringWar": "Hence, Forth! Fight the philistines, save the peoples of Palestine whether Jew or not",
 		"attacked": "I'm dissapointed! Why declare destruction, is there no fun in peace and prosperity?",
 		"defeated": "Colziand is its people, me, and Him.",
 		"introduction": "Kumusta sa'inyo. O estranghero, saan ka galing?",
@@ -187,7 +187,7 @@
 		"outerColor": [41,83,42],
 		"innerColor": [146,221,9],
 		"uniqueName": "Cultural Conquest",
-		"uniques": ["Receive free [Great Artist] when you discover [Drama and Poetry]",
+		"uniques": ["Free [Great Artist] appears <upon discovering [Drama and Poetry]>",
 			   "[+6 Culture] from every [Landmark]","[Great Artist] is earned [25]% faster",
 			   "Earn [100]% of killed [Military] unit's [Strength] as [Culture]","[+1 Culture, +2 Gold] from each Trade Route"],
 		"cities": ["Umiratae","Karavany","Harimyar Ount"]
