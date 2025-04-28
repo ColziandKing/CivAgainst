@@ -8,7 +8,7 @@
 {
 		"name": "Sugar Shack",
 		"replaces": "Circus",
-		"uniqueTo": "Umiratae Dynasty",
+		"uniqueTo": "Azibhania",
 		"happiness": 2,
 	        "maintenance": 1,
 		"hurryCostModifier": 25,
@@ -51,7 +51,7 @@
         {
 		"name": "Barbican",
 		"replaces": "Armory",
-		"uniqueTo": "Azibhania",
+		"uniqueTo": "Salumi",
 		"cityHealth": 25,
 		"maintenance": 0,
 		"hurryCostModifier": 25,
