@@ -23,7 +23,7 @@
 		"innerColor": [255,255,0], 
 		"uniqueName": "Allied Domain Rule",
 		"uniques": [
-			"[+33]% Strength <when fighting units from a Civilization with more Cities than you> <in [Friendly Land] tiles>","[+100 Gold] [in capital] <for [Freedom] Civilizations>",
+			"[+33]% Strength <when fighting units from a Civilization with more Cities than you> <in [Friendly Land] tiles>",
 			"Science gained from research agreements [+25]%","When declaring friendship, both parties gain a [25]% boost to great person generation",
 			"Provides [1] [Glass]","Cannot build [Scout] units <hidden from users>","Cannot build [Archery] units <hidden from users>",
 		],
