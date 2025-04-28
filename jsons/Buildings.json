@@ -4,18 +4,7 @@
 		"cost": 10,
 		"hurryCostModifier": 10,
 		"uniques": ["Unavailable <in cities with a [Palace]> <hidden from users>", "Will not be displayed in Civilopedia <hidden from users>", "Unbuildable <hidden from users>", "Can be purchased with [Gold] [in all cities] <after discovering [Civil Service]> <hidden from users>", "Remove [Palace] [in all cities] <hidden from users>", "Gain a free [Palace] [in this city] <hidden from users>", "Cost increases by [10] per owned city <hidden from users>", "Cost increases by [10] when built <hidden from users>"]
-        },  
-{
-		"name": "Sugar Shack",
-		"replaces": "Circus",
-		"uniqueTo": "Azibhania",
-		"happiness": 2,
-	        "maintenance": 1,
-		"hurryCostModifier": 25,
-		"uniques": ["Must have an owned [Forest] within [2] tiles", "[+1 Food, +1 Gold] from [Forest] tiles [in this city]",
-      "Limited to [1] per Civilization", "Free [Settler] appears","Free [Settler] appears <hidden from users","Unsellable <hidden from users>"],
-		"requiredTech": "Trapping"
-	},          
+        },        
 	{
 		"name": "Bahay Kubo",
                 "replaces": "Granary",
@@ -47,17 +36,6 @@
 		"uniques": ["Must have an owned [Rare feature] within [1] tiles", "[+1 Food] from every [Rare feature]", "Gain a free [Colosseum] [in this city]"],
 		"requiredTech": "Calendar",
 		"quote": "'But the wrath of Huitzilopochtli was great, and as the sacrifice passed each of the four rooms dedicated to the sun god, the sun disappeared or reappeared in the sky.' - Fray Diego Durán"
-	},
-        {
-		"name": "Barbican",
-		"replaces": "Armory",
-		"uniqueTo": "Salumi",
-		"cityHealth": 25,
-		"maintenance": 0,
-		"hurryCostModifier": 25,
-		"requiredBuilding": "Barracks",
-		"uniques": ["New [{Land} {Military}] units start with [15] XP [in this city]", "[+1 Gold] per [3] social policies adopted", "[+1] Unit Supply", "Destroyed when the city is captured"],
-		"requiredTech": "Metal Casting"
 	},
 	{
 		"name": "Nobel Foundation",
