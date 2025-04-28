@@ -188,6 +188,7 @@
 		"innerColor": [245,245,245],
 		"uniqueName": "Domination & Submission",
 		"uniques": ["Empire enters golden age <upon declaring war with a major Civilization>","[+7 Production] from every [Mountain]",
+			"[+100 Science] [in capital] <for [Autocracy] Civilizations>",
 			"Cannot build [Settler] units <hidden from users>","[+6 Culture] from every [Landmark]",]
 		"cities": ["Azibhania Fortspance","Uemsphire Citadel","Ravimines Deposit","Umiratae","Karavany","Harimyar Ount"]
 	},
