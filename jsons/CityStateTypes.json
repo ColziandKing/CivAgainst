@@ -51,31 +51,22 @@
     {
         "name": "Productive",
         "friendBonusUniques":  [
-            "[+2 Production] [in capital]",
-            "[+2 Production] from every [Manufactory]",
-            "[+2 Production] from every [Hansa]",
-            "[+2 Production] from every [Oppidum]",
-            "[+1 Production] from every [Coast]",
-            "[+1 Production] from every [Lakes]",
-            "[+1 Production] from every [Coast] <starting from the [Industrial era]>",
-            "[+1 Production] from every [Lakes] <starting from the [Industrial era]>"
+            "[+10]% [Production] [in all cities]", 
         ],
         "allyBonusUniques":  [
-            "[+10]% [Faith] [in all cities]", "[Faith] cost of purchasing items in cities [-10]%"
+            "[+10]% [Production] [in all cities]","[+3 Production] [in capital]",
+            "[+15]% [Production] [in all cities] <when at war>"
         ],
         "color": [255, 255, 255]
     },
     {
         "name": "Scientific",
         "friendBonusUniques":  [
-            "[+2 Science] [in capital]",
-            "[+2 Science] from every [Academy]",
-            "[+2 Science] from every [Observatory]",
-            "[+2 Science] from every [Seowon]",
-            "[+15]% [Science] [in all cities] <when not at war>""
+            "[+10]% [Science] [in all cities]", 
         ],
         "allyBonusUniques":  [
-            "[+10]% [Faith] [in all cities]", "[Faith] cost of purchasing items in cities [-10]%"
+            "[+10]% [Science] [in all cities]","[+2 Science] [in capital]",
+            "[+15]% [Science] [in all cities] <when not at war>"
         ],
         "color": [255, 255, 255]
     },
