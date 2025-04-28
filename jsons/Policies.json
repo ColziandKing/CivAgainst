@@ -861,6 +861,7 @@
                 "name": "Cultural Revolution",
                 "uniques": [
                     "[+10]% [Culture] [in all cities] <while the empire is happy>",
+			"[+100 Culture] [in capital] <for [Order] Civilizations>",
                     "Empire enters golden age"
                 ],
                 "row": 2,
@@ -1002,7 +1003,8 @@
                 "uniques": [
                     "[+1 Happiness] from every [Market]",
                     "[+1 Happiness] from every [Bank]",
-                    "[+1 Happiness] from every [Stock Exchange]"
+                    "[+1 Happiness] from every [Stock Exchange]",
+			"[+100 Gold] [in capital] <for [Freedom] Civilizations>",
                 ],
                 "row": 2,
                 "column": 4
