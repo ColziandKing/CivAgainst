@@ -1,4 +1,12 @@
 
+		{
+				"name": "Hunting & Gathering",
+				"row": 7,
+				"quote": "'Before much was known, much simple and yet difficult was the life our ancestors had.' - Colziand",
+				"uniques": [
+					"Starting tech"
+				]
+	}
 	{
 		"name": "Umiratae Dynasty",
 		"leaderName": "Caloriosum Umiratae",
