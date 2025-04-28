@@ -1,0 +1,140 @@
+[
+	{
+		"name": "Relocate Capital",
+		"cost": 10,
+		"hurryCostModifier": 10,
+		"uniques": ["Unavailable <in cities with a [Palace]> <hidden from users>", "Will not be displayed in Civilopedia <hidden from users>", "Unbuildable <hidden from users>", "Can be purchased with [Gold] [in all cities] <after discovering [Civil Service]> <hidden from users>", "Remove [Palace] [in all cities] <hidden from users>", "Gain a free [Palace] [in this city] <hidden from users>", "Cost increases by [10] per owned city <hidden from users>", "Cost increases by [10] when built <hidden from users>"]
+        },  
+{
+		"name": "Sugar Shack",
+		"replaces": "Circus",
+		"uniqueTo": "Umiratae Dynasty",
+		"happiness": 2,
+	        "maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["Must have an owned [Forest] within [2] tiles", "[+1 Food, +1 Gold] from [Forest] tiles [in this city]",
+      "Limited to [1] per Civilization", "Free [Settler] appears","Free [Settler] appears <hidden from users","Unsellable <hidden from users>"],
+		"requiredTech": "Trapping"
+	},          
+	{
+		"name": "Bahay Kubo",
+                "replaces": "Granary",
+		"uniqueTo": "The Philippines", 
+		"cost": 30,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+	        "percentStatBonus": {"food": 10},
+		"uniques": [
+            "[+1] population [in this city]",
+"[+1 Food] <within [1] tiles of a [Coast]>"
+    ]
+	},
+	{
+		"name": "Sanchi Stupa",
+		"culture": 2,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Scientist": 2},
+		"uniques": ["[+3 Food] <when not at war>", "[+3 Production] <when at war>", "Gain a free [Stupa] [in this city]", "Only available <when religion is enabled>"],
+		"requiredTech": "Imperial Games",
+		"quote": "'All religions should reside everywhere, for all of them desire self-control and purity of heart.' - Ashoka",
+	},
+	{
+		"name": "Teotihuacan Pyramids",
+		"culture": 2,
+		"faith": 3,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Engineer": 2},
+		"uniques": ["Must have an owned [Rare feature] within [1] tiles", "[+1 Food] from every [Rare feature]", "Gain a free [Colosseum] [in this city]"],
+		"requiredTech": "Spirituality",
+		"quote": "'But the wrath of Huitzilopochtli was great, and as the sacrifice passed each of the four rooms dedicated to the sun god, the sun disappeared or reappeared in the sky.' - Fray Diego Durán"
+	},
+        {
+		"name": "Barbican",
+		"replaces": "Armory",
+		"uniqueTo": "Azibhania",
+		"cityHealth": 25,
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Barracks",
+		"uniques": ["New [{Land} {Military}] units start with [15] XP [in this city]", "[+1 Gold] per [3] social policies adopted", "[+1] Unit Supply", "Destroyed when the city is captured"],
+		"requiredTech": "Metal Casting"
+	},
+	{
+		"name": "Nobel Foundation",
+		"culture": 3,
+		"greatPersonPoints": {"Great Scientist": 3},
+		"isWonder": true,
+		"uniques": ["Free Great Person <upon declaring friendship> <with [33]% chance>", "[+33]% Great Person generation [in all cities] <for [All] Civilizations>", "Gain [60] Influence with a [Great Person] gift to a City-State"],
+		"requiredTech": "Dynamite",
+		"quote": "'One can state, without exaggeration, that the observation of and the search for similarities and differences are the basis of all human knowledge.' - Alfred Nobel",
+	},
+        {
+		"name": "Mars Colonization Program",
+		"culture": 1,
+		"isNationalWonder": true,
+		"greatPersonPoints": {"Great Scientist": 3},
+		"uniques": ["Only available <with [Aluminum]>", "Triggers a global alert upon build start", "[+250 Science] [in capital] <for [All] Civilizations>", 
+			"Only available <when [Scientific] Victory is enabled>", "Cannot be hurried", "Only available <if [Apollo Program] is constructed>", "Provides [8] [Pollution]"],
+		"requiredTech": "Nanotechnology"
+	},
+	{
+		"name": "Sputnik Program",
+		"culture": 1,
+		"isNationalWonder": true,
+		"greatPersonPoints": {"Great Scientist": 3},
+		"uniques": ["Only available <with [Aluminum]>", "Reveals the entire map", "[+100 Science] [in capital] <for [All] Civilizations>", "Triggers a global alert upon completion", "Cannot be hurried", "Provides [3] [Pollution]"],
+		"requiredTech": "Rocketry"
+	},
+	{
+		"name": "Wat",
+		"cost": 115,
+		"science": 3,
+		"faith": 2,
+		"culture": 1,
+		"requiredBuilding": "Temple",
+		"uniques": ["Unbuildable <before adopting [Wats]>", "Doubles Gold given to enemy if city is captured","Only available <when religion is enabled>"]
+	},
+	{
+		"name": "Stupa",
+		"cost": 115,
+		"happiness": 2,
+		"faith": 2,
+		"culture": 1,
+		"science": 1,
+		"requiredBuilding": "Temple",
+		"uniques": ["Unbuildable <before adopting [Stupas]>", "Only available <when religion is enabled>"]
+	},
+    {
+        "name": "Georgian Stupa",
+        "replaces": "Stupa",
+        "uniqueTo": "Georgia",
+        "cost": 100,
+		"happiness": 2,
+		"faith": 3,
+		"culture": 3,
+		"science": 1,
+        "uniques": [
+            "Unsellable",
+            "Only available <when religion is enabled>",
+            "Only available <in cities with a [Stupa] religion>",
+            "Will not be displayed in Civilopedia"
+        ]
+    },
+    {
+        "name": "Georgian Wat",
+        "replaces": "Wat",
+        "uniqueTo": "Georgia",
+        "cost": 100,
+		"science": 4,
+		"faith": 2,
+		"culture": 2,
+        "uniques": [
+            "Unsellable",
+			"Doubles Gold given to enemy if city is captured","Unbuildable",
+			"Hidden when religion is disabled",
+            "Only available <when religion is enabled>",
+            "Only available <in cities with a [Wat] religion>",
+            "Will not be displayed in Civilopedia"
+        ]
+    },
+]
