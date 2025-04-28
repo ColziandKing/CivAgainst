@@ -1,6 +1,7 @@
 [
 	{
 		"name": "Infiltrator",
+		"uniqueTo": "Great Britain",
 		"unitType": "Scout",
 		"movement": 2,
 		"strength": 10,
