@@ -1,0 +1,35 @@
+
+	{
+		"name": "Umiratae Dynasty",
+		"leaderName": "Caloriosum Umiratae",
+		"adjective": ["Naisamtalts"],
+		"startBias": ["Oasis","Desert","Avoid [Jungle]","Avoid [Forest]"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Islam",
+		
+		"startIntroPart1": "Haggarat, U' Umiratie dee 50th. Hayvhing Imsovturei affer dheating zee Andtos en zheir knatdom, yu rhavge em en nhow yur ulhe Caravansary Company o zupplis. Ziggurat/high, O' Umiratie the 50th. Becoming/Having sovereignity/ruler afther defeating the band of organized raiders from an enemy kingdom, you ravaged everthing they have and their city became under your dominion to what is now your trading hub of supplies.",
+		"startIntroPart2": "U' Haggarat-han, exhan ulhe fhar estela o Khrubina? O' high one will expand your rule as far as the star/kochav/bituin of Khrubina?",	
+		
+		"declaringWar": "Insolence you are! I will reduce all you have until all is destroyed.",
+		"attacked": "You will see our cultural advancement once we defeat you or you surrender.",
+		"defeated": "Arggat! You are foolish for destroying us, now our people will be in ruins.",
+		"introduction": "Shalom, my domination is in culture friend. Your culture what is it?",
+		"neutralHello": "You here to share your culture?",		
+		"neutralLetsHearIt": "You have an offer?",
+		"neutralNo": "No, this does not seem befitting.",
+		"neutralYes": "You know how to do culture.",
+		"hateHello": "I can feel the berber within you.",	
+		"hateLetsHearIt": "You are hard difficult but not impossible.",
+		"hateNo": "Never you berber!",
+		"hateYes": "You know what culture is.",
+		"afterPeace": "This is not you but for us.",
+		"tradeRequest": "My new culture lesson is here.",
+		
+		"outerColor": [41,83,42],
+		"innerColor": [146,221,9],
+		"uniqueName": "Cultural Conquest",
+		"uniques": ["Free [Great Artist] appears <upon discovering [Drama and Poetry]>","Cannot build [Settler] units <hidden from users>",
+			   "[+6 Culture] from every [Landmark]","[Great Artist] is earned [25]% faster",
+			   "Earn [100]% of killed [Military] unit's [Strength] as [Culture]","[+1 Culture, +2 Gold] from each Trade Route"],
+		"cities": ["Umiratae","Karavany","Harimyar Ount"]
+	},
