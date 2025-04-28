@@ -35,7 +35,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Scientist": 2},
 		"uniques": ["[+3 Food] <when not at war>", "[+3 Production] <when at war>", "Gain a free [Stupa] [in this city]", "Only available <when religion is enabled>"],
-		"requiredTech": "Imperial Games",
+		"requiredTech": "Horseback Riding",
 		"quote": "'All religions should reside everywhere, for all of them desire self-control and purity of heart.' - Ashoka",
 	},
 	{
@@ -45,7 +45,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 2},
 		"uniques": ["Must have an owned [Rare feature] within [1] tiles", "[+1 Food] from every [Rare feature]", "Gain a free [Colosseum] [in this city]"],
-		"requiredTech": "Spirituality",
+		"requiredTech": "Calendar",
 		"quote": "'But the wrath of Huitzilopochtli was great, and as the sacrifice passed each of the four rooms dedicated to the sun god, the sun disappeared or reappeared in the sky.' - Fray Diego Durán"
 	},
         {
