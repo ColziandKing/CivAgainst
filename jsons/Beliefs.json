@@ -149,4 +149,33 @@
         "type": "Enhancer",
         "uniques": ["[+1 Faith] from every [Land] <within [1] tiles of a [Great Improvement]>", "[-1 Faith] from every [Great Improvement] <hidden from users>"]
     },
+ {
+        "name": "Sacred Sites",
+        "type": "Enhancer",
+        "uniques": [
+            "[+2 Gold, +2 Culture, +2 Faith] from every [Vihara]",
+            "[+2 Gold, +2 Culture, +2 Faith] from every [Cathedral]",
+            "[+2 Gold, +2 Culture, +2 Faith] from every [Gurdwara]",
+            "[+2 Gold, +2 Culture, +2 Faith] from every [Mandir]",
+            "[+2 Gold, +2 Culture, +2 Faith] from every [Mosque]",
+            "[+2 Gold, +2 Culture, +2 Faith] from every [Pagoda]",
+            "[+2 Gold, +2 Culture, +2 Faith] from every [Monastery]",
+            "[+2 Gold, +2 Culture, +2 Faith] from every [Synagogue]",
+            "[+2 Gold, +2 Culture, +2 Faith] from every [Meeting House]",
+            "[+2 Gold, +2 Culture, +2 Faith] from every [Wat]",
+            "[+2 Gold, +2 Culture, +2 Faith] from every [Stupa]",
+            "Comment [Unlocks [Stupa] [in cities following this religion]]",
+            "Comment [Unlocks [Wat] [in cities following this religion]]",
+            "Comment [Unlocks [Monastery] [in cities following this religion]]",
+          "Comment [Unlocks [Vihara] [in cities following this religion]]",
+          "Comment [Unlocks [Pagoda] [in cities following this religion]]",
+          "Comment [Unlocks [Synagogue] [in cities following this religion]]",
+          "Comment [Unlocks [Mosque] [in cities following this religion]]",
+          "Comment [Unlocks [Mandir] [in cities following this religion]]",
+          "Comment [Unlocks [Gurdwara] [in cities following this religion]]",
+            "Comment [Unlocks [Cathedral] [in cities following this religion]]",
+            "Comment [Unlocks [Meeting House] [in cities following this religion]]",
+            "Only available <after adopting [Reformation]>"
+        ]
+    },
 ]
