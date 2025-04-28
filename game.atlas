@@ -67,7 +67,7 @@ BuildingIcons/Beer Distillery
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Bolshoi Theatre
+BuildingIcons/Edukasa
   rotate: false
   xy: 328, 904
   size: 100, 100
@@ -1598,7 +1598,7 @@ size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/Aleksandria
+NationIcons/Azibhania
   rotate: false
   xy: 4, 40
   size: 100, 100
