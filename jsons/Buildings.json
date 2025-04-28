@@ -43,7 +43,7 @@
 		"greatPersonPoints": {"Great Merchant": 2},
 		"isWonder": true,
 		"uniques": ["Gain [100] [Gold] <(modified by game speed)>", "Gain [100] [Gold] <upon expending a [Great Person] unit> <(modified by game speed)>", "Must be next to [Water]",
-			"Gain a free [Market] [in this city]",,
+			"Gain a free [Market] [in this city]",
             "[+2 Gold] from [Marble] tiles [in this city]",
             "[+2 Gold] from [Stone] tiles [in this city]",
             "[+2 Gold] from [Obsidian] tiles [in this city]"],
