@@ -100,7 +100,8 @@
 		{
                 "name": "Free Speech",
                 "uniques": [
-			"Gain a free [Amphitheater] [in capital]","[+1] Movement <for [Melee] units>","[+1] Movement <for [Civilian] units>"
+			"Gain a free [Amphitheater] [in capital]","[+1] Movement <for [Melee] units>","[+1] Movement <for [Civilian] units>",
+                    "May buy [Diplomat] units for [500] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50]) <starting from the [Classical era]> <hidden from users>"
                 ],
                 "row": 1,
                 "column": 4
