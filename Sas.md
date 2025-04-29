@@ -1,4 +1,16 @@
-{
+
+            "Comment [Unlocks [Stupa] [in cities following this religion]]",
+            "Comment [Unlocks [Wat] [in cities following this religion]]",
+            "Comment [Unlocks [Monastery] [in cities following this religion]]",
+          "Comment [Unlocks [Vihara] [in cities following this religion]]",
+          "Comment [Unlocks [Pagoda] [in cities following this religion]]",
+          "Comment [Unlocks [Synagogue] [in cities following this religion]]",
+          "Comment [Unlocks [Mosque] [in cities following this religion]]",
+          "Comment [Unlocks [Mandir] [in cities following this religion]]",
+          "Comment [Unlocks [Gurdwara] [in cities following this religion]]",
+            "Comment [Unlocks [Cathedral] [in cities following this religion]]",
+            "Comment [Unlocks [Meeting House] [in cities following this religion]]",{
+	    
 		"name": "Khevsur",
 		"uniqueTo": "Georgia",
 		"replaces": "Pikeman",
