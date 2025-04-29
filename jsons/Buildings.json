@@ -7,7 +7,7 @@
         },   
     {
         "name": "Governor's Mansion",
-	    "cost": 350,
+	    "cost": 135,
 	    "HurryCostModifier": 25,
 	    "requiredTech": "Mathematics",
         "happiness": 2,
