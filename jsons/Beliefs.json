@@ -73,6 +73,14 @@
                     "[+1 Culture] for each global city following this religion <for [Byzantium] Civilizations> <hidden from users>"]
     },
     {
+        "name": "Religious Unity",
+        "type": "Founder",
+        "uniques": [
+            "[+50]% Natural religion spread [in City-State cities]",
+            "Resting point for Influence with City-States following this religion [+45]"
+        ]
+    },
+    {
         "name": "Religious Expeditions",
         "type": "Founder",
         "uniques": ["Comment [+1 Movement and Sight for religious units]", "Comment [Missionaries take your religion over the one in their birth city]",
@@ -164,17 +172,6 @@
             "[+2 Gold, +2 Culture, +2 Faith] from every [Meeting House]",
             "[+2 Gold, +2 Culture, +2 Faith] from every [Wat]",
             "[+2 Gold, +2 Culture, +2 Faith] from every [Stupa]",
-            "Comment [Unlocks [Stupa] [in cities following this religion]]",
-            "Comment [Unlocks [Wat] [in cities following this religion]]",
-            "Comment [Unlocks [Monastery] [in cities following this religion]]",
-          "Comment [Unlocks [Vihara] [in cities following this religion]]",
-          "Comment [Unlocks [Pagoda] [in cities following this religion]]",
-          "Comment [Unlocks [Synagogue] [in cities following this religion]]",
-          "Comment [Unlocks [Mosque] [in cities following this religion]]",
-          "Comment [Unlocks [Mandir] [in cities following this religion]]",
-          "Comment [Unlocks [Gurdwara] [in cities following this religion]]",
-            "Comment [Unlocks [Cathedral] [in cities following this religion]]",
-            "Comment [Unlocks [Meeting House] [in cities following this religion]]",
             "May buy [Cathedral] buildings with [Faith] [in cities following this religion]",
             "May buy [Wat] buildings with [Faith] [in cities following this religion]",
             "May buy [Stupa] buildings with [Faith] [in cities following this religion]",
