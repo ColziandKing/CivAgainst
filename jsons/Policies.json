@@ -839,7 +839,8 @@
             {
                 "name": "Party Leadership",
                 "uniques": [
-                    "[+2 Food, +2 Gold, +1 Production, +1 Science] [in all cities]"
+                    "[+2 Food, +2 Gold, +1 Production, +1 Science] [in all cities]",
+			"[+100 Culture] [in capital] <for [Order] Civilizations>",
                 ],
                 "row": 1,
                 "column": 1
@@ -907,7 +908,6 @@
                 "name": "Cultural Revolution",
                 "uniques": [
                     "[+10]% [Culture] [in all cities] <while the empire is happy>",
-			"[+100 Culture] [in capital] <for [Order] Civilizations>",
                     "Empire enters golden age"
                 ],
                 "requires": ["Patriotic War","Double Agents"],
@@ -1214,7 +1214,6 @@
                     "[+1] Movement <for [Armored] units>",
                     "[+1] Movement <for [Great General] units>",
                     "[+1] Movement <for [Worker] units>",
-		"[+100 Science] [in capital] <for [Autocracy] Civilizations>",
 			"Comment [BLITZKRIEG!!!]"
                 ],
                 "requires": ["Militarism","Fascism"],
@@ -1305,7 +1304,9 @@
             {
                 "name": "Clausewitz's Legacy",
                 "uniques": [
-                    "[+25]% Strength <for [All] units> <for [50] turns>","Provides [1] [Policies]"
+                    "[+25]% Strength <for [All] units> <for [50] turns>",
+		"[+100 Science] [in capital] <for [Autocracy] Civilizations>",
+			"Provides [1] [Policies]"
                 ],
                 "requires": ["Industrial Espionage","Third Alternative"],
                 "row": 3,
