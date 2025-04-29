@@ -1214,6 +1214,7 @@
                     "[+1] Movement <for [Armored] units>",
                     "[+1] Movement <for [Great General] units>",
                     "[+1] Movement <for [Worker] units>",
+		"[+100 Science] [in capital] <for [Autocracy] Civilizations>",
 			"Comment [BLITZKRIEG!!!]"
                 ],
                 "requires": ["Militarism","Fascism"],
@@ -1348,7 +1349,7 @@
 	{
             "name": "Democracy",
             "uniques": [
-		"[+1 Food, +1 Production] from every specialist [in all cities]",
+		"[+2 Food, +2 Production] from every specialist [in all cities]",
 		"Provides [1] [Policies]"
             ],
             "row": 1,
@@ -1376,8 +1377,8 @@
                 "name": "Constitution",
                 "uniques": [
 			"Gain a free [Amphitheater] [in all cities]",
-                    "[+1 Happiness] [in all cities connected to capital]",
-                    "[-5]% Unhappiness from [Population] [in all non-occupied cities]",
+                    "[+2 Happiness] [in all cities connected to capital]",
+                    "[-10]% Unhappiness from [Population] [in all non-occupied cities]",
 			"Provides [1] [Policies]"
                 ],
         "requires": ["Democracy"],
@@ -1421,8 +1422,7 @@
 		{
                 "name": "Socialism",
                 "uniques": [
-			"[+10]% [Culture] [in capital] <while the empire is happy>",
-                    "[+2 Food] [in capital]","[-5 Food] [in all cities]","Provides [1] [Policies]"
+                    "[+2 Food] [in capital]","Provides [1] [Policies]"
                 ],
         "requires": ["Planned Economy"],
                 "row": 3,
