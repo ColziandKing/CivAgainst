@@ -166,8 +166,8 @@
 		"innerColor": [245,245,245],
 		"uniqueName": "Domination & Submission",
 		"uniques": ["Empire enters golden age <upon declaring war with a major Civilization>","Starts with [Autocracy] adopted",
-			"[+7 Production] from every [Mountain]","[+100 Science] [in capital] <for [Autocracy] Civilizations>",,"Starts with [Order] adopted",
-			"Cannot build [Settler] units <hidden from users>","[+6 Culture] from every [Landmark]","Must have an owned [Forest] within [2] tiles", "[+1 Food, +1 Gold] from [Forest] tiles [in this city]",
+			"[+7 Production] from every [Mountain]","Starts with [Order] adopted","[+1 Food, +1 Gold] from [Forest] tiles [in this city]",
+			"Cannot build [Settler] units <hidden from users>","[+6 Culture] from every [Landmark]","Must have an owned [Forest] within [2] tiles", 
        "Free [Settler] appears <upon discovering [Animal Husbandry]>","Free [Settler] appears <upon discovering [Animal Husbandry]> <hidden from users",
 			"New [{Land} {Military}] units start with [15] XP [in this city]", "[+1 Gold] per [3] social policies adopted"]
 		"cities": ["Azibhania Fortspance","Uemsphire Citadel","Ravimines Deposit","Umiratae","Karavany","Harimyar Ount"]
