@@ -348,7 +348,8 @@
 		{
 				"name": "Promised Land",
 				"uniques": [
-					"[+100]% Strength for cities <with a garrison> <when defending>","Free [Settler] appears","Provides [1] [Policies]"
+					"[+100]% Strength for cities <with a garrison> <when defending>","Free [Settler] appears",
+			"[+100 Happiness] [in capital] <for [Judaism] Civilizations> <hidden from users>","Provides [1] [Policies]"
 				],
                 "requires": ["Organized Religion"],
 				"row": 3,
@@ -809,8 +810,11 @@
             },
 		{
 				"name": "Christianity",
-				"uniques": ["[+2 Production, +2 Food, +2 Gold, +2 Faith, +2 Culture, +2 Science, +2 Happiness] per [5] population [in all cities]","Empire enters golden age",
-					"[Faith] cost of purchasing [Missionary] units [-80]%","[2] free [Missionary] units appear","Provides [1] [Policies]"],
+				"uniques": ["[+2 Production, +2 Food, +2 Gold, +2 Faith, +2 Culture, +2 Science, +2 Happiness] per [5] population [in all cities]",
+					"[Faith] cost of purchasing [Missionary] units [-80]%","[2] free [Missionary] units appear",
+			"[+100 Faith] [in capital] <for [Christianity] Civilizations> <hidden from users>","[+100 Faith] [in capital] <for [Catholicism] Civilizations> <hidden from users>",
+			"[+100 Faith] [in capital] <for [Orthodoxy] Civilizations> <hidden from users>","[+100 Faith] [in capital] <for [Protestantism] Civilizations> <hidden from users>",
+			"[+100 Faith] [in capital] <for [Oriental] Civilizations> <hidden from users>","Empire enters golden age","Provides [1] [Policies]"],
 				"requires": ["Sovereignty","Secularity"],
 				"row": 3,
 				"column": 3
@@ -1432,7 +1436,8 @@
             {
                 "name": "Ideology Complete",
                 "uniques": [
-			"[+44]% Strength for cities <when defending>"
+			"[+44]% Strength for cities <when defending>",
+			"[+100 Production] [in capital] <for [Islam] Civilizations> <hidden from users>",
                 ]
             }
         ]
