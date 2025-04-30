@@ -349,7 +349,8 @@
 				"name": "Promised Land",
 				"uniques": [
 					"[+100]% Strength for cities <with a garrison> <when defending>","Free [Settler] appears",
-			"[+100 Happiness] [in capital] <for [Judaism] Civilizations> <hidden from users>","Provides [1] [Policies]"
+			"[+100 Happiness] [in capital] <for [Judaism] Civilizations> <hidden from users>",
+			"[+100 Happiness] [in capital] <for [Reformative] Civilizations> <hidden from users>","Provides [1] [Policies]"
 				],
                 "requires": ["Organized Religion"],
 				"row": 3,
