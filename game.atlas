@@ -1,4 +1,17 @@
 
+game (3).png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ReligionIcons/Oriental
+  rotate: false
+  xy: 4, 1556
+  size: 525, 475
+  orig: 525, 475
+  offset: 0, 0
+  index: -1
+
 game40.png
 size: 2048, 256
 format: RGBA8888
