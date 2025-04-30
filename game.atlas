@@ -24,6 +24,13 @@ ReligionIcons/Oriental
   orig: 525, 475
   offset: 0, 0
   index: -1
+ReligionIcons/Teotl
+  rotate: false
+  xy: 1045, 1569
+  size: 462, 462
+  orig: 462, 462
+  offset: 0, 0
+  index: -1
 
 game40.png
 size: 2048, 256
