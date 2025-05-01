@@ -30,6 +30,18 @@
 "[+1 Food] <within [1] tiles of a [Coast]>"
     ]
 	},
+        {
+		"name": "Smithy",
+		"replaces": "Forge",
+		"uniqueTo": "Azibhania",
+		"maintenance": 0,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"requiredNearbyImprovedResources": ["Copper", "Gold Ore", "Silver", "Gems", "Iron", "Aluminum"],
+		"requiredTech": "Iron Working",
+		"uniques": ["[+1 Production] from [Mine] tiles [in this city]"],
+		
+	},
 	{
 		"name": "Sanchi Stupa",
 		"culture": 2,
