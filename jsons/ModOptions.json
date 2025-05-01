@@ -2,7 +2,7 @@
 	"modUrl": "https://github.com/ArchDuque-Pancake/Barbarian-xp-farm",
 	"author": "ArchDuque-Pancake",
 	"constants": {
-		"maxXPfromBarbarians": 10000
+		"maxXPfromBarbarians": 1000
 	}
 }
 {
