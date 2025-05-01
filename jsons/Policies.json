@@ -811,11 +811,12 @@
             },
 		{
 				"name": "Christianity",
-				"uniques": ["[+2 Production, +2 Food, +2 Gold, +2 Faith, +2 Culture, +2 Science, +2 Happiness] per [5] population [in all cities]",
-					"[Faith] cost of purchasing [Missionary] units [-80]%","[2] free [Missionary] units appear",
+				"uniques": [
+					"[+2 Production, +2 Food, +2 Gold, +2 Faith, +2 Culture, +2 Science, +2 Happiness] per [5] population [in all cities]",
+					"[Faith] cost of purchasing [Missionary] units [-80]%","[2] free [Missionary] units appear","Empire enters golden age","Provides [1] [Policies]",
 			"[+100 Faith] [in capital] <for [Christianity] Civilizations> <hidden from users>","[+100 Faith] [in capital] <for [Catholicism] Civilizations> <hidden from users>",
 			"[+100 Faith] [in capital] <for [Orthodoxy] Civilizations> <hidden from users>","[+100 Faith] [in capital] <for [Protestantism] Civilizations> <hidden from users>",
-			"[+100 Faith] [in capital] <for [Oriental] Civilizations> <hidden from users>","Empire enters golden age","Provides [1] [Policies]"],
+			],
 				"requires": ["Sovereignty","Secularity"],
 				"row": 3,
 				"column": 3
