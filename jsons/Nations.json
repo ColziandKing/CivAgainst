@@ -137,7 +137,7 @@
 		"cities": ["Reigna","Thraymond","Proviencia","Liencia","Sheenran","Nippon"]
 	},
 	{
-		"name": "Azibhania Empire",
+		"name": "Azibhania",
 		"leaderName": "Aim Peirce",
 		"adjective": ["Bhans/Bhanians"],
 		"startBias": ["Hill","Desert","Jungle"],
@@ -164,11 +164,11 @@
 		
 		"outerColor": [10,10,10],
 		"innerColor": [245,245,245],
-		"uniqueName": "Domination & Submission",
+		"uniqueName": "Call for Sharia!",
 		"uniques": ["Empire enters golden age <upon declaring war with a major Civilization>","Starts with [Autocracy] adopted",
 			"[+7 Production] from every [Mountain]","Starts with [Order] adopted","[+1 Food, +1 Gold] from [Forest] tiles [in this city]",
 			"Cannot build [Settler] units <hidden from users>","[+6 Culture] from every [Landmark]","Must have an owned [Forest] within [2] tiles", 
-       "Free [Settler] appears <upon discovering [Animal Husbandry]>","Free [Settler] appears <upon discovering [Animal Husbandry]> <hidden from users",
+       "Free [Settler] appears <upon discovering [Animal Husbandry]>","Free [Settler] appears <upon discovering [Animal Husbandry]> <hidden from users>",
 			"New [{Land} {Military}] units start with [15] XP [in this city]", "[+1 Gold] per [3] social policies adopted"]
 		"cities": ["Azibhania Fortspance","Uemsphire Citadel","Ravimines Deposit","Umiratae","Karavany","Harimyar Ount"]
 	},
