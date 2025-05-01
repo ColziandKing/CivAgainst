@@ -21,5 +21,20 @@
 		"uniques": ["May enter foreign tiles without open borders", "May Paradrop up to [10] tiles from inside friendly territory", "Can undertake a trade mission with City-State, giving a large sum of gold and [90] Influence", "Unbuildable", "Uncapturable"
 		],
 		"movement": 2
-	}
+	},
+	{
+		"name": "Mandekalu Ghazi",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Azibhania",
+		"movement": 4,
+		"strength": 66,
+		"cost": 220,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Horses",
+		"upgradesTo": "Cavalry",
+		"obsoleteTech": "Military Science",
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"attackSound": "horse"
+	},
 ]
