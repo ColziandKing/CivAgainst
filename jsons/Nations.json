@@ -56,8 +56,7 @@
 		"favoredReligion": "Catholicism",
 		"uniqueName": "Blackadder Dynasty & Baldrick's Cunning Plan",
 		"uniques": ["Gain a free [Castle] [in capital]","Starts with [Monarchy] adopted",
-			"Promotes all spies [1] time(s) <when espionage is enabled>", 
-			"New spies start with [1] level(s) <when espionage is enabled>",
+			"Gain a free [Pantheon] belief <upon founding a Pantheon>",
 			"[+1 Culture, +1 Happiness] per [6] social policies adopted",
 			"[+10]% [Food] <when between [25] and [50] Happiness>",
 			"[+10]% [Faith] <when between [-5] and [-100] Happiness>"
@@ -164,12 +163,13 @@
 		
 		"outerColor": [10,10,10],
 		"innerColor": [245,245,245],
-		"uniqueName": "Call for Sharia",
+		"uniqueName": "Sharia",
 		"uniques": ["Empire enters golden age <upon declaring war with a major Civilization>","Starts with [Autocracy] adopted",
 			"[+7 Production] from every [Mountain]","Starts with [Order] adopted","[+1 Food, +1 Gold] from [Forest] tiles [in this city]",
-			"Cannot build [Settler] units <hidden from users>","[+6 Culture] from every [Landmark]","Must have an owned [Forest] within [2] tiles", 
+			"[+6 Culture] from every [Landmark]","Must have an owned [Forest] within [2] tiles", 
        "Free [Settler] appears <upon discovering [Animal Husbandry]>","Free [Settler] appears <upon discovering [Animal Husbandry]> <hidden from users>",
-			"New [{Land} {Military}] units start with [15] XP [in this city]", "[+1 Gold] per [3] social policies adopted"]
+			"New [{Land} {Military}] units start with [15] XP [in this city]", "[+1 Gold] per [3] social policies adopted",
+		"May choose [1] additional belief(s) of any type when [founding] a religion","Cannot build [Settler] units <hidden from users>",]
 		"cities": ["Azibhania Fortspance","Uemsphire Citadel","Ravimines Deposit","Umiratae","Karavany","Harimyar Ount"]
 	},
     {
