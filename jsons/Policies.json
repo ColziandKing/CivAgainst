@@ -89,9 +89,6 @@
                 "uniques": [
                     "[+15]% growth [in all cities]",
                     "Provides a [Aqueduct] in your first [8] cities for free",
-			"[+100 Food] [in capital] <for [Hindusism] Civilizations> <hidden from users>",
-			"[+100 Food] [in capital] <for [Sikhism] Civilizations> <hidden from users>",
-			"[+100 Food] [in capital] <for [Buddhism] Civilizations> <hidden from users>",
                     "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
@@ -350,9 +347,7 @@
 		{
 				"name": "Promised Land",
 				"uniques": [
-					"[+100]% Strength for cities <with a garrison> <when defending>","Free [Settler] appears",
-			"[+100 Happiness] [in capital] <for [Judaism] Civilizations> <hidden from users>",
-			"[+100 Happiness] [in capital] <for [Reformative] Civilizations> <hidden from users>","Provides [1] [Policies]"
+					"[+100]% Strength for cities <with a garrison> <when defending>","Free [Settler] appears","Provides [1] [Policies]"
 				],
                 "requires": ["Organized Religion"],
 				"row": 3,
@@ -509,7 +504,6 @@
                 "name": "Sharia",
                 "uniques": [
             "[+21]% Production when constructing [All] buildings [in all cities] <during the [Classical era]>",
-			"[+100 Production] [in capital] <for [Islam] Civilizations> <hidden from users>"],  
                 "requires": ["City Militia","Autarky"],
 		    "row": 3,
                 "column": 3
@@ -978,8 +972,6 @@
 				"uniques": [
 					"[+2 Production, +2 Food, +2 Gold, +2 Faith, +2 Culture, +2 Science, +2 Happiness] per [5] population [in all cities]",
 					"[Faith] cost of purchasing [Missionary] units [-80]%","[2] free [Missionary] units appear","Empire enters golden age","Provides [1] [Policies]",
-			"[+100 Faith] [in capital] <for [Christianity] Civilizations> <hidden from users>","[+100 Faith] [in capital] <for [Catholicism] Civilizations> <hidden from users>",
-			"[+100 Faith] [in capital] <for [Orthodoxy] Civilizations> <hidden from users>","[+100 Faith] [in capital] <for [Protestantism] Civilizations> <hidden from users>",
 			],
 				"requires": ["Sovereignty","Secularity"],
 				"row": 3,
