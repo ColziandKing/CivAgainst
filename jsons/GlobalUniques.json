@@ -16,6 +16,12 @@
         "[+25]% [Faith] [in capital] <for [Catholicism] Civilizations>",
         "[+25]% [Faith] [in capital] <for [Orthodoxy] Civilizations>",
         "[+25]% [Faith] [in capital] <for [Protestantism] Civilizations>",
+        "[+25]% [Happiness] [in holy cities] <for [Judaism] Civilizations>",
+        "[+25]% [Happiness] [in holy cities] <for [Reformative] Civilizations>",
+        "[+25]% [Faith] [in holy cities] <for [Christianity] Civilizations>",
+        "[+25]% [Faith] [in holy cities] <for [Catholicism] Civilizations>",
+        "[+25]% [Faith] [in holy cities] <for [Orthodoxy] Civilizations>",
+        "[+25]% [Faith] [in holy cities] <for [Protestantism] Civilizations>",
 
         // TODO: Implement the uniques below
         // "[+20]% [Culture] [in all cities] <during a golden age>",
