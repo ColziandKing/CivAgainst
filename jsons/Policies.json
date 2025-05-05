@@ -89,6 +89,9 @@
                 "uniques": [
                     "[+15]% growth [in all cities]",
                     "Provides a [Aqueduct] in your first [8] cities for free",
+			"[+100 Food] [in capital] <for [Hindusism] Civilizations> <hidden from users>",
+			"[+100 Food] [in capital] <for [Sikhism] Civilizations> <hidden from users>",
+			"[+100 Food] [in capital] <for [Buddhism] Civilizations> <hidden from users>",
                     "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
@@ -505,7 +508,8 @@
             {
                 "name": "Sharia",
                 "uniques": [
-            "[+21]% Production when constructing [All] buildings [in all cities] <during the [Medieval era]>"],  
+            "[+21]% Production when constructing [All] buildings [in all cities] <during the [Classical era]>",
+			"[+100 Production] [in capital] <for [Islam] Civilizations> <hidden from users>"],  
                 "requires": ["City Militia","Autarky"],
 		    "row": 3,
                 "column": 3
@@ -1599,7 +1603,6 @@
                 "name": "Ideology Complete",
                 "uniques": [
 			"[+44]% Strength for cities <when defending>",
-			"[+100 Production] [in capital] <for [Islam] Civilizations> <hidden from users>",
                 ]
             }
         ]
