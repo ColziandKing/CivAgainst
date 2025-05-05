@@ -378,7 +378,7 @@
         "era": "Classical era",
         "uniques": ["Free Social Policy","Adopt [Philanthropy]","Adopt [Vassalage] <hidden from users>",
             "Only available <before adopting [Relations]>",
-            "Resting point for Influence with City-States is increased by [20]","Only available <after adopting [Piety]>",
+            "Resting point for Influence with City-States is increased by [20]",
             "Comment [Unlocks [Forbidden Palace]]","Provides [1] [Policies]","Remove [Decentralization] <hidden from users>",
                             ],
         "policies": [
@@ -461,7 +461,7 @@
         },
         "uniques": [
                 "[-33]% maintenance costs <for [Military] units>", "[+1] Unit Supply per city",
-            "Only available <before adopting [Piety]>", "Free Social Policy","Adopt [Mandate Of Heaven]", 
+            "Only available <before adopting [Piety]>", "Free Social Policy","Adopt [Sharia]", 
 	],
         "policies": [
             {
@@ -531,7 +531,6 @@
         "uniques": [
             "[Great Merchant] is earned [33]% faster", "Free Social Policy","Adopt [Silk Road]",
             "Comment [Unlocks [Big Ben]]","Provides [1] [Policies]","Adopt [Environmentalism] <hidden from users>",
-		"Only available <after adopting [Patronage]>"
         ],
         "era": "Medieval era",
         "policies": [
