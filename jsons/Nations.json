@@ -171,8 +171,7 @@
 			"New [{Land} {Military}] units start with [15] XP [in this city]", "[+1 Gold] per [3] social policies adopted",
 		"May choose [1] additional belief(s) of any type when [founding] a religion","Cannot build [Settler] units <hidden from users>",]
 		"cities": ["Azibhania Fortspance","Uemsphire Citadel","Ravimines Deposit","Umiratae","Karavany","Harimyar Ount"]
-	},"[+1 Food, +1 Gold] from [Forest] tiles [in this city]",
-			"[+6 Culture] from every [Landmark]","Must have an owned [Forest] within [2] tiles", 
+	},
     {
         "name": "Philippines",
         "leaderName": "Emilio Aguinaldo",
