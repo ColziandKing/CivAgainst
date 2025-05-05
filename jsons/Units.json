@@ -10,7 +10,7 @@
 			"Invisible to non-adjacent units",
 			"Can see invisible [Land] units",
 			"May enter foreign tiles without open borders",
-			"[+1] Sight","Uncapturable",
+			"[+1] Sight","Uncapturable","[0]% maintenance costs",
 			"All adjacent units heal [+15] HP when healing", 
 			"Withdraws before melee combat <with [50]% chance>"],
 		"attackSound": "nonmetalhit"
