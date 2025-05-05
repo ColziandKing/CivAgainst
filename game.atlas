@@ -491,7 +491,7 @@ PolicyBranchIcons/Nationalism
   orig: 100, 100
   offset: 0, 0
   index: -1
-PolicyIcons/Machiavellianism
+PolicyIcons/Machiavellianism1
   rotate: false
   xy: 1220, 520
   size: 100, 100
@@ -631,7 +631,7 @@ PolicyIcons/City Militia
   orig: 100, 100
   offset: 0, 0
   index: -1
-PolicyIcons/Free Trade
+PolicyIcons/Machiavellianism
   rotate: false
   xy: 1590, 520
   size: 100, 100
@@ -687,7 +687,7 @@ PolicyIcons/State Logistics
   orig: 100, 100
   offset: 0, 0
   index: -1
-PolicyIcons/Free Market
+PolicyIcons/Free Trade
   rotate: false
   xy: 1702, 520
   size: 100, 100
