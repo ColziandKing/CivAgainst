@@ -1,3 +1,14 @@
+
+
+			"[+100 Happiness] [in capital] <for [Judaism] Civilizations> <hidden from users>",
+			"[+100 Happiness] [in capital] <for [Reformative] Civilizations> <hidden from users>",
+			"[+100 Production] [in capital] <for [Islam] Civilizations> <hidden from users>"],  
+			"[+100 Faith] [in capital] <for [Christianity] Civilizations> <hidden from users>","[+100 Faith] [in capital] <for [Catholicism] Civilizations> <hidden from users>",
+			"[+100 Faith] [in capital] <for [Orthodoxy] Civilizations> <hidden from users>","[+100 Faith] [in capital] <for [Protestantism] Civilizations> <hidden from users>",
+			"[+100 Food] [in capital] <for [Hindusism] Civilizations> <hidden from users>",
+			"[+100 Food] [in capital] <for [Sikhism] Civilizations> <hidden from users>",
+			"[+100 Food] [in capital] <for [Buddhism] Civilizations> <hidden from users>",
+
 "[+1 Food, +1 Gold] from [Forest] tiles [in this city]",
 			"[+6 Culture] from every [Landmark]","Must have an owned [Forest] within [2] tiles", 
             "Comment [Unlocks [Stupa] [in cities following this religion]]",
