@@ -1,4 +1,5 @@
-
+"[+1 Food, +1 Gold] from [Forest] tiles [in this city]",
+			"[+6 Culture] from every [Landmark]","Must have an owned [Forest] within [2] tiles", 
             "Comment [Unlocks [Stupa] [in cities following this religion]]",
             "Comment [Unlocks [Wat] [in cities following this religion]]",
             "Comment [Unlocks [Monastery] [in cities following this religion]]",
