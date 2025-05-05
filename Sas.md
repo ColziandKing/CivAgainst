@@ -9,6 +9,11 @@
 			"[+100 Food] [in capital] <for [Sikhism] Civilizations> <hidden from users>",
 			"[+100 Food] [in capital] <for [Buddhism] Civilizations> <hidden from users>",
 
+			"[+100 Culture] [in capital] <for [Order] Civilizations>",
+			"[+100 Gold] [in capital] <for [Freedom] Civilizations>",
+		"[+100 Science] [in capital] <for [Autocracy] Civilizations>",
+
+   
 "[+1 Food, +1 Gold] from [Forest] tiles [in this city]",
 			"[+6 Culture] from every [Landmark]","Must have an owned [Forest] within [2] tiles", 
             "Comment [Unlocks [Stupa] [in cities following this religion]]",
