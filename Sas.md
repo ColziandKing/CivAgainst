@@ -1,5 +1,8 @@
 
 
+        "Triggers a [Industrial Policies] event <upon entering [Industrial era]>",
+        "Triggers a [Modern Policies] event <upon entering [Modern era]>",
+        "Triggers a [Atomic Policies] event <upon entering [Atomic era]>",
 			"[+100 Happiness] [in capital] <for [Judaism] Civilizations> <hidden from users>",
 			"[+100 Happiness] [in capital] <for [Reformative] Civilizations> <hidden from users>",
 			"[+100 Production] [in capital] <for [Islam] Civilizations> <hidden from users>"],  
