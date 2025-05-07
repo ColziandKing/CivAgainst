@@ -2,33 +2,27 @@
   ///New
     {
         "name": "Choose Ideology",
-        "text": "Decisions reguarding the civilisation's internal affair. An ideology is a set of beliefs or values attributed to a person or group of persons, especially those held for reasons that are not purely about belief in certain knowledge, in which practical elements are as prominent as theoretical ones.",
+        "text": "Decisions reguarding the civilisation's internal affair. An ideology is a set of beliefs or values attributed to a person or group of persons, especially those held for reasons that are not purely about belief in certain knowledge, in which practical elements are as prominent as theoretical ones. In political science, the term is used in a descriptive sense to refer to political belief systems.",
         "choices": [
             {
                 "text": "Order to revolution!",
                 "uniques": [
                     "Comment [We need more soldiers at the frontline.]",
-                    "Gain a free [Call to Arms] [in all cities] <in cities with at least [5] [Population]>",
-                    "Remove [Enact Policies] [in all cities] <hidden from users>"
+                    "Adopt [Order] <hidden from users>"
                 ]
             },
             {
                 "text": "Freedom and liberty.",
                 "uniques": [
-                    "Only available <when not at war>",
                     "Comment [Since there are currently no conflict, we may disband our levied armies.]",
-                    "Remove [Call to Arms] [in all cities]",
-                    "Gain a free [Disbanding Levies] [in capital]",
-                    "Remove [Enact Policies] [in all cities] <hidden from users>"
+                    "Adopt [Freedom] <hidden from users>"
                 ]
             },
             {
                 "text": "Autocracy of expansion",
                 "uniques": [
-                    "Only available <if ['Economic Policy'] is constructed>",
                     "Comment [If the current economic policies fail to meet the situation...]",
-                    "Triggers a [Changing economy policies] event",
-                    "Remove [Enact Policies] [in all cities] <hidden from users>"
+                    "Adopt [Autocracy] <hidden from users>",
                 ]
             }
         ]
