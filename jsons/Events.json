@@ -1,5 +1,8 @@
 [
   ///New
+			"Adopt [Tradition]",
+                    "Adopt [Liberty]",
+                    "Adopt [Honor]"
     {
         "name": "Choose Ideology",
         "text": "Decisions reguarding the civilisation's internal affair. An ideology is a set of beliefs or values attributed to a person or group of persons, especially those held for reasons that are not purely about belief in certain knowledge, in which practical elements are as prominent as theoretical ones. In political science, the term is used in a descriptive sense to refer to political belief systems.",
