@@ -23,8 +23,8 @@
         "[+25]% [Faith] [in holy cities] <for [Orthodoxy] Civilizations>",
         "[+25]% [Faith] [in holy cities] <for [Protestantism] Civilizations>",
         
-        "Triggers a [Ancient Policies] event <upon entering [Ancient] era>",
-        "Triggers a [Choose Ideology] event <upon entering [Industrial] era>",
+        "Triggers a [Ancient Policies] event <upon entering [Ancient era]>",
+        "Triggers a [Choose Ideology] event <upon entering [Industrial era]>",
 
         // TODO: Implement the uniques below
         // "[+20]% [Culture] [in all cities] <during a golden age>",
