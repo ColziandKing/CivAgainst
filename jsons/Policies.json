@@ -3,7 +3,7 @@
         "name": "Tradition",
         "era": "Ancient era",
         "uniques": [
-            "[+3 Culture] from every [Palace]", "Free Social Policy","Remove [Despotism] <hidden from users>",
+            "[+3 Culture] from every [Palace]", "Remove [Despotism] <hidden from users>",
             "[-25]% Culture cost of natural border growth [in all cities]","Adopt [Aristocracy]", 
             "Comment [Unlocks [Hanging Gardens]]","Provides [1] [Policies]",
         ],
@@ -99,7 +99,7 @@
         "era": "Ancient era",
         "uniques": [
             "[-100]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [2]>","[+1 Culture] [in all cities]", 
-		"Free Social Policy", "Adopt [Free Speech]", "Comment [Unlocks [The Pyramids]]","Provides [1] [Policies]","Remove [Barbarism] <hidden from users>"
+		"Adopt [Free Speech]", "Comment [Unlocks [The Pyramids]]","Provides [1] [Policies]","Remove [Barbarism] <hidden from users>"
         ],
         "policies": [
 		{
@@ -203,7 +203,7 @@
         "name": "Honor",
         "era": "Ancient era",
         "uniques": [
-			"Units in cities cost no Maintenance","Free Social Policy",
+			"Units in cities cost no Maintenance",
                     "[+50]% Strength for cities <with a garrison> <when attacking>","Adopt [Military Tradition]",
 		"[+15]% Production when constructing [Melee] units [in all cities]",
             "Comment [Unlocks [Statue of Zeus]]","Provides [1] [Policies]","Remove [Tribalism] <hidden from users>"
@@ -299,9 +299,8 @@
             "[+100]% Production when constructing [Temple] buildings [in all cities]",
             "Only available <before adopting [Expansion]>",
             "Gain enough Faith for [50]% of a Great Prophet",
-	    "Only available <after founding a Pantheon>",
             "[+100]% Production when constructing [Shrine] buildings [in all cities]","Adopt [Pacifism] <hidden from users>",
-            "[+1 Culture, +1 Faith] [in capital]", "Free Social Policy","Adopt [Organized Religion]", 
+            "[+1 Culture, +1 Faith] [in capital]", "Adopt [Organized Religion]", 
             "Comment [Unlocks [Hagia Sophia]]","Provides [1] [Policies]","Remove [Paganism] <hidden from users>"
         ],
         "policies": [
@@ -389,7 +388,7 @@
     {
         "name": "Patronage",
         "era": "Classical era",
-        "uniques": ["Free Social Policy","Adopt [Philanthropy]","Adopt [Vassalage] <hidden from users>",
+        "uniques": ["Adopt [Philanthropy]","Adopt [Vassalage] <hidden from users>",
             "Only available <before adopting [Relations]>",
             "Resting point for Influence with City-States is increased by [20]",
             "Comment [Unlocks [Forbidden Palace]]","Provides [1] [Policies]","Remove [Decentralization] <hidden from users>",
@@ -474,7 +473,7 @@
         },
         "uniques": [
                 "[-33]% maintenance costs <for [Military] units>", "[+1] Unit Supply per city",
-            "Only available <before adopting [Piety]>", "Free Social Policy","Adopt [Sharia]", 
+            "Only available <before adopting [Piety]>", "Adopt [City Militia]", 
 	],
         "policies": [
             {
@@ -531,7 +530,7 @@
     {
         "name": "Commerce",
         "uniques": [
-            "[Great Merchant] is earned [33]% faster", "Free Social Policy","Adopt [Silk Road]",
+            "[Great Merchant] is earned [33]% faster", "Adopt [Silk Road]",
             "Comment [Unlocks [Big Ben]]","Provides [1] [Policies]","Adopt [Environmentalism] <hidden from users>",
         ],
         "era": "Medieval era",
@@ -618,13 +617,11 @@
     {
         "name": "Exploration",
         "uniques": [ 
-		"Free Social Policy","Adopt [Maritime Infrastructure]",
+		"Adopt [Maritime Infrastructure]",
             "[+1] Movement <for [{Military} {Water}] units>",
             "[+1] Sight <for [{Military} {Water}] units>","Adopt [Mercenary Navy] <hidden from users>",
-		"Free [Quinquereme] appears","Free [Quinquereme] appears",
             "Free [Quinquereme] appears","Comment [Unlocks [The Louvre]]",
             "Comment [Unlocks [Conquistador]]","Provides [1] [Policies]",
-		"Only available <after adopting [Commerce]>"
         ],
         "era": "Medieval era",
         "policies": [
@@ -721,7 +718,7 @@
         },
         "uniques": [,
                     "May buy [Diplomat] units for [500] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50]) <starting from the [Medieval era]>",
-		 "Free Social Policy","Adopt [Machiavellianism]", 
+		 "Adopt [Machiavellianism]", 
             "Only available <before adopting [Patronage]>",
 	    ],
 	    "policies": [
@@ -792,6 +789,8 @@
             {
                 "name": "Relations Complete",
                 "uniques": [
+                    "Influence of all other civilizations with all city-states degrades [33]% faster",
+                    "Triggers the following global alert: [Our influence with City-States has started dropping faster!]",
                     "Comment [Promotes all spies 1 time(s)] <when espionage is enabled>", "Comment [New spies start with 1 level(s)] <when espionage is enabled>", "Promotes all spies [1] time(s) <when espionage is enabled> <hidden from users>", "New spies start with [1] level(s) <when espionage is enabled> <hidden from users>",
 			"Comment [Resting point for Influence with City-States is increased by 10] <when espionage is disabled>", "Comment [Reveal the locations of the cities of the City-States encountered] <when espionage is disabled>", "Resting point for Influence with City-States is increased by [10] <when espionage is disabled> <hidden from users>", "Reveal up to [All] [City center] within a [200] tile radius <when espionage is disabled> <hidden from users>"
                 ]
@@ -802,12 +801,11 @@
         "name": "Aesthetics",
         "era": "Renaissance era",
         "uniques": [ 
-		"Adopt [Cultural Centers]", "Free Social Policy",
+		"Adopt [Cultural Centers]",
             "[Great Artist] is earned [25]% faster",
             "[Great Writer] is earned [25]% faster",
             "[Great Musician] is earned [25]% faster",
             "Comment [Unlocks [Uffizi]]","Provides [1] [Policies]",
-		"Only available <after adopting [Exploration]>"
         ],
         "policies": [
             {
@@ -904,10 +902,9 @@
         "name": "Rationalism",
         "era": "Renaissance era",
         "uniques": [ 
-		"Free Social Policy","Adopt [Free Thought]",
+		"Adopt [Free Thought]",
             "[Great Scientist] is earned [20]% faster",
             "Comment [Unlocks [Porcelain Tower]]","Provides [1] [Policies]",
-	    "Only available <after adopting [Aesthetics]>"
         ],
         "policies": [
 		{
@@ -992,8 +989,7 @@
         "name": "Order",
         "era": "Industrial era",
         "uniques": [
-            "Free Social Policy","Free Social Policy <hidden from users>","Adopt [Young Pioneers]","Adopt [Patriotic War]",
-            "Comment [Unlocks [Kremlin]]", "Adopt [Socialist Realism]",
+		"Adopt [Patriotic War]","Comment [Unlocks [Kremlin]]", "Adopt [Socialist Realism]",
 		"Adopt [Dictatorship of the Proletariat]","Only available <after adopting [Ideology]>",
             "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Freedom]>",
@@ -1154,7 +1150,6 @@
         "name": "Freedom",
         "era": "Industrial era",
         "uniques": [
-            "Free Social Policy","Free Social Policy <hidden from users>","Adopt [Avant Garde]",
             "Comment [Unlocks [Statue of Liberty]]", "Adopt [Civil Society]","Remove [Slavery] <hidden from users>",
             "Adopt [Volunteer Army]","Adopt [Democracy]","Only available <after adopting [Ideology]>",
 		"Only available <before adopting [Autocracy]>",
@@ -1318,8 +1313,8 @@
         "name": "Autocracy",
         "era": "Industrial era",
         "uniques": [
-            "Free Social Policy","Free Social Policy <hidden from users>","Adopt [Militarism]","Adopt [Fascism]",
-            "Comment [Unlocks [Prora]]","Adopt [Mobilization]","Adopt [Nazism]",
+            "Adopt [Militarism]","Adopt [Fascism]",
+            "Comment [Unlocks [Prora]]","Adopt [Nazism]",
             "Only available <after adopting [Ideology]>",
             "Only available <before adopting [Order]>",
             "Only available <before adopting [Freedom]>",
@@ -1495,7 +1490,7 @@
 	    "Religious": 20
         },
         "uniques": [
-            "When declaring friendship, both parties gain a [15]% boost to great person generation",
+            "When declaring friendship, both parties gain a [15]% boost to great person generation", "Adopt [Diplomatic Missions]",
         ],
         "policies": [
             {
