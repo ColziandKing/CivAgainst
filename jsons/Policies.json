@@ -306,9 +306,10 @@
         ],
         "policies": [
             {
-                "name": "Religious Orders",
+                "name": "Mandate Of Heaven",
                 "uniques": [
-                    "[Faith] cost of purchasing items in cities [-25]%"
+                    "[+1 Happiness] from every [Temple]",
+                    "[+1 Faith] [in capital]",
                 ],
                 "row": 1,
                 "column": 1
@@ -320,7 +321,7 @@
                     "[+1 Culture, +1 Faith] from every [Temple]"
                 ],
                 "row": 1,
-                "column": 3
+                "column": 4
             },
             {
                 "name": "Theocracy",
@@ -331,7 +332,7 @@
                     "[+3 Gold] from every [Holy site]"
                 ],
                 "row": 1,
-                "column": 5
+                "column": 7
             },
             {
                 "name": "Reformation",
@@ -346,14 +347,24 @@
                 "row": 2,
                 "column": 1
             },
+            {
+                "name": "Religious Orders",
+                "uniques": [
+                    "[Faith] cost of purchasing items in cities [-25]%",
+			"Gain a free [Follower] belief"
+                ],
+                "requires": ["Organized Religion"],
+                "row": 2,
+                "column": 4
+            },
 		{
 				"name": "Promised Land",
 				"uniques": [
 					"[+100]% Strength for cities <with a garrison> <when defending>","Free [Settler] appears","Provides [1] [Policies]"
 				],
-                "requires": ["Organized Religion"],
+                "requires": ["Religious Orders"],
 				"row": 3,
-				"column": 3
+				"column": 4
 			},
             {
                 "name": "Monasticism",
@@ -362,7 +373,7 @@
                     "Organized Religion"
                 ],
                 "row": 2,
-                "column": 5
+                "column": 7
             },
             {
                 "name": "Piety Complete",
@@ -467,23 +478,12 @@
 	],
         "policies": [
             {
-                "name": "Mandate Of Heaven",
-                "uniques": [
-                    "[+1 Happiness] from every [Temple]",
-                    "[+1 Faith] [in capital]",
-			"Gain a free [Follower] belief",
-                ],
-                "row": 1,
-                "column": 3
-            },
-            {
                 "name": "City Militia",
                 "uniques": [
                     "[-50]% maintenance costs <for [Military] units> <in [City center] tiles>", "[+2 Happiness, +1 Production] [in all cities with a garrison]"
                 ],
-                "requires": ["Mandate Of Heaven"],
-                "row": 2,
-                "column": 2
+                "row": 1,
+                "column": 3
             },
             {
                 "name": "Autarky",
@@ -491,9 +491,9 @@
                     "Quantity of strategic resources produced by the empire +[50]%",
                     "[+2 Food] [in all cities connected to capital]"
                 ],
-                "requires": ["Mandate Of Heaven"],
+                "requires": ["City Militia"],
                 "row": 2,
-                "column": 4
+                "column": 3
             },
             {
                 "name": "Inquisition",
