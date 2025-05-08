@@ -659,7 +659,7 @@
 			"Free [Conquistador] appears"
                 ],
                 "row": 1,
-                "column": 7
+                "column": 8
             },
             {
                 "name": "Navigation School",
@@ -683,7 +683,7 @@
                 ],
 		"requires": ["Colonialism"],
                 "row": 2,
-                "column": 7
+                "column": 8
             },
             {
                 "name": "Treasure Fleets",
@@ -1524,7 +1524,7 @@
                 "column": 3
             },
             {
-                "name": "Trade Union",
+                "name": "Trade Unions",
                 "uniques": ["[+1] Happiness from each type of luxury resource"],
                 "requires": ["World Expo", "Diplomatic Missions"],
                 "row": 3,
