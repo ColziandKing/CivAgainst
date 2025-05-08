@@ -294,10 +294,12 @@
     },
     {
         "name": "Piety",
-        "era": "Classical era",
+        "era": "Ancient era",
         "uniques": [
             "[+100]% Production when constructing [Temple] buildings [in all cities]",
             "Only available <before adopting [Expansion]>",
+            "Gain enough Faith for [50]% of a Great Prophet",
+	    "Only available <after founding a Pantheon>",
             "[+100]% Production when constructing [Shrine] buildings [in all cities]","Adopt [Pacifism] <hidden from users>",
             "[+1 Culture, +1 Faith] [in capital]", "Free Social Policy","Adopt [Organized Religion]", 
             "Comment [Unlocks [Hagia Sophia]]","Provides [1] [Policies]","Remove [Paganism] <hidden from users>"
@@ -1483,7 +1485,7 @@
     },
 	    {
         "name": "Ideology",
-        "era": "Modern era",
+        "era": "Industrial era",
         "uniques": [
             "Free Social Policy <upon adopting [Nazism]>",
                     "Free Social Policy <upon adopting [Democracy]>",
