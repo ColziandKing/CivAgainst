@@ -1,8 +1,106 @@
 [
   ///New
-			"Adopt [Tradition]",
-                    "Adopt [Liberty]",
-                    "Adopt [Honor]"
+    {
+        "name": "Ancient Policies",
+        "text": "A time period from the beginning of writing and recorded human history through late antiquity.",
+        "choices": [
+            {
+                "text": "Tradition first",
+                "uniques": [
+                    "Comment [Without tradition, art is a flock of sheep without a shepherd. Without innovation, it is a corpse. -Winston Churchill-]",
+                    "Adopt [Tradition] <hidden from users>"
+                ]
+            },
+            {
+                "text": "Liberty and justice",
+                "uniques": [
+                    "Comment [Liberty, when it begins to take root, is a plant of rapid growth. Seek discipline and find your liberty. -George Washington & Frank Herbert-]",
+                    "Adopt [Liberty] <hidden from users>"
+                ]
+            },
+            {
+                "text": "Honor among men",
+                "uniques": [
+                    "Comment [I would prefer even to fail with honor than win by cheating. It is not titles that honor men, but men that honor titles. -Sophocles & Niccolo Machiavelli-]",
+                    "Adopt [Honor] <hidden from users>",
+                ]
+            },
+            {
+                "text": "Piety is great",
+                "uniques": [
+                    "Comment [This, and this alone, is Christianity, a universal holiness in every part of life, a heavenly wisdom in all our actions, not conforming to the spirit and temper of the world but turning all worldly enjoyments into means of piety and devotion to God. -Willian Law-]",
+                    "Adopt [Piety] <hidden from users>"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Classical Policies",
+        "text": "Also known as the classical era, classical period, classical age, or simply antiquity. Classical antiquity was succeeded by the period now known as late antiquity.",
+	    "choices": [
+            {
+                "text": "Patronage funding",
+                "uniques": [
+                    "Comment [Politeness and civility are the best capital ever invested in business. Large stores, gilt signs, flaming advertisements, will all prove unavailing if you or your employees treat your patrons abruptly. The truth is, the more kind and liberal a man is, the more generous will be the patronage bestowed upon him. -P.T. Barnum]",
+                    "Adopt [Patronage] <hidden from users>"
+                ]
+            },
+            {
+                "text": "Expansion plan",
+                "uniques": [
+                    "Comment [Expansion means complexity and complexity decay. -C. Northcote Parkinson-]",
+                    "Adopt [Expansion] <hidden from users>",
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Medieval Policies",
+        "text": "In the history of Europe, the Middle Ages or medieval period lasted approximately from the 5th to the late 15th centuries, similarly to the post-classical period of global history. It began with the fall of the Western Roman Empire and transitioned into the Renaissance and the Age of Discovery. The Middle Ages is the middle period of the three traditional divisions of Western history: classical antiquity, the medieval period, and the modern period. The medieval period is itself subdivided into the Early, High, and Late Middle Ages.",
+        "choices": [
+            {
+                "text": "Commerce benefits us all",
+                "uniques": [
+                    "Comment [Commerce with all nations, alliance with none, should be our motto. Peace, commerce and honest friendship with all nations; entangling alliances with none. -Thomas Jefferson-]",
+                    "Adopt [Commerce] <hidden from users>"
+                ]
+            },
+            {
+                "text": "Exploration in the age of discovery",
+                "uniques": [
+                    "Comment [Exploration is really the essence of the human spirit. The excitement lies in the exploration of the world around us. -Frank Borman & Jim Peebles]",
+                    "Adopt [Exploration] <hidden from users>"
+                ]
+            },
+            {
+                "text": "Relations to remember",
+                "uniques": [
+                    "Comment [We are afraid to care too much, for fear that the other person does not care at all. -Eleanor Roosevelt-]",
+                    "Adopt [Relations] <hidden from users>",
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Renaissance Policies",
+        "text": "A period of history and a European cultural movement covering the 15th and 16th centuries. It marked the transition from the Middle Ages to modernity and was characterized by an effort to revive and surpass the ideas and achievements of classical antiquity.",
+        "choices": [
+            {
+                "text": "Rationalism than ignorance",
+                "uniques": [
+                    "Comment [Rationalism, which is the feeling that everything is subject to and completely explicable by Reason, consequently rejects everything not visible and calculable. -Francis Parker Yockey-]",
+                    "Adopt [Rationalism] <hidden from users>"
+                ]
+            },
+            {
+                "text": "Aesthetics of arts and crafts",
+                "uniques": [
+                    "Comment [Design must be functional, and functionality must be translated into visual aesthetics without any reliance on gimmicks that have to be explained. -Ferdinand Porsche-]",
+                    "Adopt [Aesthetics] <hidden from users>",
+                ]
+            }
+        ]
+    },
     {
         "name": "Choose Ideology",
         "text": "Decisions reguarding the civilisation's internal affair. An ideology is a set of beliefs or values attributed to a person or group of persons, especially those held for reasons that are not purely about belief in certain knowledge, in which practical elements are as prominent as theoretical ones. In political science, the term is used in a descriptive sense to refer to political belief systems.",
@@ -15,7 +113,7 @@
                 ]
             },
             {
-                "text": "Freedom and liberty.",
+                "text": "Freedom for the people.",
                 "uniques": [
                     "Comment [Since there are currently no conflict, we may disband our levied armies.]",
                     "Adopt [Freedom] <hidden from users>"
