@@ -31,13 +31,7 @@
                     "Comment [This, and this alone, is Christianity, a universal holiness in every part of life, a heavenly wisdom in all our actions, not conforming to the spirit and temper of the world but turning all worldly enjoyments into means of piety and devotion to God. -Willian Law-]",
                     "Adopt [Piety] <hidden from users>"
                 ]
-            }
-        ]
-    },
-    {
-        "name": "Classical Policies",
-        "text": "Also known as the classical era, classical period, classical age, or simply antiquity. Classical antiquity was succeeded by the period now known as late antiquity.",
-	    "choices": [
+            },
             {
                 "text": "Patronage funding",
                 "uniques": [
@@ -45,19 +39,6 @@
                     "Adopt [Patronage] <hidden from users>"
                 ]
             },
-            {
-                "text": "Expansion plan",
-                "uniques": [
-                    "Comment [Expansion means complexity and complexity decay. -C. Northcote Parkinson-]",
-                    "Adopt [Expansion] <hidden from users>",
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Medieval Policies",
-        "text": "In the history of Europe, the Middle Ages or medieval period lasted approximately from the 5th to the late 15th centuries, similarly to the post-classical period of global history. It began with the fall of the Western Roman Empire and transitioned into the Renaissance and the Age of Discovery. The Middle Ages is the middle period of the three traditional divisions of Western history: classical antiquity, the medieval period, and the modern period. The medieval period is itself subdivided into the Early, High, and Late Middle Ages.",
-        "choices": [
             {
                 "text": "Commerce benefits us all",
                 "uniques": [
@@ -71,6 +52,19 @@
                     "Comment [Exploration is really the essence of the human spirit. The excitement lies in the exploration of the world around us. -Frank Borman & Jim Peebles]",
                     "Adopt [Exploration] <hidden from users>"
                 ]
+	    }
+        ]
+    },
+    {
+        "name": "Classical & Medieval",
+        "text": "Also known as the classical era, classical period, classical age, or simply antiquity. Classical antiquity was succeeded by the period now known as late antiquity. In the history of Europe, the Middle Ages or medieval period lasted approximately from the 5th to the late 15th centuries, similarly to the post-classical period of global history. It began with the fall of the Western Roman Empire and transitioned into the Renaissance and the Age of Discovery. The Middle Ages is the middle period of the three traditional divisions of Western history: classical antiquity, the medieval period, and the modern period. The medieval period is itself subdivided into the Early, High, and Late Middle Ages.",
+	    "choices": [
+            {
+                "text": "Expansion plan",
+                "uniques": [
+                    "Comment [Expansion means complexity and complexity decay. -C. Northcote Parkinson-]",
+                    "Adopt [Expansion] <hidden from users>",
+                ]
             },
             {
                 "text": "Relations to remember",
@@ -78,11 +72,11 @@
                     "Comment [We are afraid to care too much, for fear that the other person does not care at all. -Eleanor Roosevelt-]",
                     "Adopt [Relations] <hidden from users>",
                 ]
-            }
+	    }
         ]
     },
     {
-        "name": "Renaissance Policies",
+        "name": "Renaissance is coming",
         "text": "A period of history and a European cultural movement covering the 15th and 16th centuries. It marked the transition from the Middle Ages to modernity and was characterized by an effort to revive and surpass the ideas and achievements of classical antiquity.",
         "choices": [
             {
