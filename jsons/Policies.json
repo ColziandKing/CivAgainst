@@ -1524,7 +1524,7 @@
                 "column": 3
             },
             {
-                "name": "Free Market",
+                "name": "Trade Union",
                 "uniques": ["[+1] Happiness from each type of luxury resource"],
                 "requires": ["World Expo", "Diplomatic Missions"],
                 "row": 3,
