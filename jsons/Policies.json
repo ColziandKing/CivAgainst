@@ -500,7 +500,7 @@
                 "uniques": ["May buy [Inquisitor] units with [Faith] [in all cities in which the majority religion is a major religion]", "Free [Inquisitor] appears"],
                 "requires": ["Autarky"],
                 "row": 3,
-                "column": 2
+                "column": 1
             },
             {
                 "name": "Sharia",
@@ -509,7 +509,16 @@
 		],
                 "requires": ["Autarky"],
 		    "row": 3,
-                "column": 4
+                "column": 3
+            },
+            {
+                "name": "State Logistics",
+                "uniques": [
+                    "[-33]% maintenance on road & railroads", "Improves movement speed on roads"
+                ],
+                "requires": ["Autarky"],
+                "row": 3,
+                "column": 5
             },
             {
                 "name": "Expansion Complete",
@@ -542,7 +551,7 @@
                     "[+2 Production, +2 Food] from every [Sea Trade Route (Gold)]",
                 ],
                 "row": 1,
-                "column": 4
+                "column": 6
             },
 		{
                 "name": "Economic Union",
@@ -554,7 +563,7 @@
                 ],
                 "requires": ["Silk Road"],
                 "row": 2,
-                "column": 4
+                "column": 6
             },
             {
                 "name": "Entrepreneurship",
@@ -582,7 +591,7 @@
                 ],
                 "requires": ["Economic Union"],
                 "row": 3,
-                "column": 3
+                "column": 4
             },
             {
                 "name": "Protectionism",
@@ -592,7 +601,7 @@
                 ],
                 "requires": ["Economic Union"],
                 "row": 3,
-                "column": 5
+                "column": 7
             },
             {
                 "name": "Commerce Complete",
@@ -1507,7 +1516,7 @@
             },
             {
                 "name": "Diplomatic Missions",
-                "requires": ["World Expo", "Foreign Aid", "Cultural Diplomacy"],
+                "requires": ["World Expo", "Foreign Aid"],
                 "uniques": [
                     "[1] free [Diplomat] units appear", "[1] free [Diplomat] units appear <upon entering a new era>"
                 ],
@@ -1515,11 +1524,16 @@
                 "column": 3
             },
             {
-                "name": "State Logistics",
-                "uniques": [
-                    "[-33]% maintenance on road & railroads", "Improves movement speed on roads"
-                ],
-                "requires": ["World Expo", "Foreign Aid", "Cultural Diplomacy"],
+                "name": "Free Market",
+                "uniques": ["[+1] Happiness from each type of luxury resource"],
+                "requires": ["World Expo", "Diplomatic Missions"],
+                "row": 3,
+                "column": 1
+            },
+            {
+                "name": "Market Economy",
+                "uniques": ["[-50]% maintenance cost for buildings [in all cities]"],
+                "requires": ["Diplomatic Missions", "Foreign Aid"],
                 "row": 3,
                 "column": 5
             },
