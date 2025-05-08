@@ -541,7 +541,7 @@
                 "uniques": [
                     "Retain [67]% of the happiness from a luxury after the last copy has been traded away"],
                 "row": 1,
-                "column": 1
+                "column": 2
             },
             {
                 "name": "Silk Road",
@@ -647,7 +647,7 @@
                     "[+50]% Production when constructing [Seaport] buildings [in all cities]"
                 ],
                 "row": 1,
-                "column": 3
+                "column": 4
             },
             {
                 "name": "Colonialism",
@@ -659,7 +659,7 @@
 			"Free [Conquistador] appears"
                 ],
                 "row": 1,
-                "column": 5
+                "column": 7
             },
             {
                 "name": "Navigation School",
@@ -669,7 +669,7 @@
                 ],
                 "requires": ["Maritime Infrastructure","Naval Tradition"],
                 "row": 2,
-                "column": 3
+                "column": 4
             },
 		{
                 "name": "Resettlements",
@@ -683,7 +683,7 @@
                 ],
 		"requires": ["Colonialism"],
                 "row": 2,
-                "column": 5
+                "column": 7
             },
             {
                 "name": "Treasure Fleets",
@@ -694,7 +694,7 @@
                 ],
                 "requires": ["Navigation School"],
                 "row": 3,
-                "column": 3
+                "column": 4
             },
             {
                 "name": "Exploration Complete",
