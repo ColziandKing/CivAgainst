@@ -361,7 +361,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [0, 0, 255],
+		"innerColor": [255, 255, 0],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
 		"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]"],
 		"cities": ["Meldar"]
@@ -403,7 +403,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [0, 0, 255],
+		"innerColor": [0, 255, 255],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
 		"[+4 Faith] from each Trade Route","[+2 Faith] [in capital]"],
 		"cities": ["Sengtek-Xivesotte"]
@@ -417,7 +417,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [0, 0, 255],
+		"innerColor": [96, 96, 96],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
 		"cities": ["Eadu"]
@@ -431,7 +431,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [0, 0, 255],
+		"innerColor": [160, 160, 160],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
 		"cities": ["Sienar"]
