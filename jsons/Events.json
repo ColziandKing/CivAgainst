@@ -82,17 +82,73 @@
             {
                 "text": "Great Artist",
                 "uniques": [
-                    "Comment [Expansion means complexity and complexity decay. -C. Northcote Parkinson-]",
+                    "Comment [The true work of art is but a shadow of the divine perfection. -Michelangelo-]",
                     "Free [Great Artist] appears <hidden from users>",
                 ]
             },
             {
                 "text": "Great Writer",
                 "uniques": [
-                    "Comment [We are afraid to care too much, for fear that the other person does not care at all. -Eleanor Roosevelt-]",
+                    "Comment [Either write something worth reading or do something worth writing. -Benjamin Franklin-]",
+                    "Free [Great Writer] appears <hidden from users>",
+                ]
+            },
+            {
+                "text": "Great Musician",
+                "uniques": [
+                    "Comment [Where words fail, music speaks. -Hans Christian Andersen-]",
+                    "Free [Great Musician] appears <hidden from users>",
+                ]
+            },
+            {
+                "text": "Great Scientist",
+                "uniques": [
+                    "Comment [The human brain is an incredible pattern-matching machine. -Jeff Bezos-]",
+                    "Free [Great Scientist] appears <hidden from users>",
+                ]
+            },
+            {
+                "text": "Great Merchant",
+                "uniques": [
+                    "Comment [Greed is not a financial issue. It's a heart issue. -Andy Stanley-]",
+                    "Free [Great Merchant] appears <hidden from users>",
+                ]
+            },
+            {
+                "text": "Great Engineer",
+                "uniques": [
+                    "Comment [A person who thinks only about building walls, wherever they may be, and not building bridges is not Christian. This is not in the Gospel. -Pope Francis-]",
+                    "Free [Great Engineer] appears <hidden from users>",
+                ]
+            },
+            {
+                "text": "Great Prophet",
+                "uniques": [
+                    "Comment [Pray as though everything depended on God. Work as though everything depended on you. -Saint Augustine-]",
+                    "Free [Great Prophet] appears <hidden from users>",
+                ]
+            },
+            {
+                "text": "Great General",
+                "uniques": [
+                    "Comment [We shall defend our island, whatever the cost may be, we shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender. -Winston Churchill-]",
+                    "Free [Great General] appears <hidden from users>",
+                ]
+            },
+            {
+                "text": "Great Admiral",
+                "uniques": [
+                    "Comment [There is a tide in the affairs of men, Which taken at the flood, leads on to fortune. Omitted, all the voyage of their life is bound in shallows and in miseries. On such a full sea are we now afloat. And we must take the current when it serves, or lose our ventures. -William Shakespeare-]",
+                    "Free [Great Admiral] appears <hidden from users>",
+                ]
+	    },
+            {
+                "text": "Great Person Choice",
+                "uniques": [
+                    "Comment [Every day brings new choices. -Martha Beck-]",
                     "Free Great Person <hidden from users>",
                 ]
-	    }
+            }
         ]
     },
     {
