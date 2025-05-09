@@ -80,17 +80,17 @@
         "text": "A change and improvement to society, to cvilization, and the world",
 	    "choices": [
             {
-                "text": "Expansion plan",
+                "text": "Great Artist",
                 "uniques": [
                     "Comment [Expansion means complexity and complexity decay. -C. Northcote Parkinson-]",
-                    "Free [Warrior] appears <hidden from users>",
+                    "Free [Great Artist] appears <hidden from users>",
                 ]
             },
             {
-                "text": "Relations to remember",
+                "text": "Great Writer",
                 "uniques": [
                     "Comment [We are afraid to care too much, for fear that the other person does not care at all. -Eleanor Roosevelt-]",
-                    "Adopt [Relations] <hidden from users>",
+                    "Free Great Person <hidden from users>",
                 ]
 	    }
         ]
