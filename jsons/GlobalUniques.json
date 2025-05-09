@@ -23,8 +23,8 @@
         "[+25]% [Faith] [in holy cities] <for [Orthodoxy] Civilizations>",
         "[+25]% [Faith] [in holy cities] <for [Protestantism] Civilizations>",
         
-        
-        "Triggers a [Classical Policies] event <upon entering [Classical era]>",
+        "Triggers a [Social Policy or Technology] event <upon entering a new era>",
+        "Triggers a [A great person is born!] event <upon entering a new era>",
         "Triggers a [Medieval Policies] event <upon entering [Medieval era]>",
         "Triggers a [Renaissance Policies] event <upon entering [Renaissance era]>",
 
