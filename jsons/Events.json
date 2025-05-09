@@ -56,6 +56,26 @@
         ]
     },
     {
+        "name": "Social Policy or Technology",
+        "text": "Some professionals and universities consider social policy a subset of public policy, while other practitioners characterize social policy and public policy to be two separate, competing approaches for the same public interest (similar to MD and DO in healthcare), with social policy deemed more holistic than public policy. While technology is the application of conceptual knowledge to achieve practical goals, especially in a reproducible way. The word technology can also mean the products resulting from such efforts, including both tangible tools such as utensils or machines, and intangible ones such as software. Technology plays a critical role in science, engineering, and everyday life.",
+	    "choices": [
+            {
+                "text": "Social Policy",
+                "uniques": [
+                    "Comment [The right combination is between a free economy and social policy that addresses the needs of society and creates equal opportunity. -Benjamin Netanyahu-]",
+                    "Free Social Policy <hidden from users>",
+                ]
+            },
+            {
+                "text": "Technology",
+                "uniques": [
+                    "Comment [For a successful technology, reality must take precedence over public relations, for Nature cannot be fooled. -Richard P. Feynman-]",
+                    "Free Technology <hidden from users>",
+                ]
+	    }
+        ]
+    },
+    {
         "name": "Classical & Medieval",
         "text": "Also known as the classical era, classical period, classical age, or simply antiquity. Classical antiquity was succeeded by the period now known as late antiquity. In the history of Europe, the Middle Ages or medieval period lasted approximately from the 5th to the late 15th centuries, similarly to the post-classical period of global history. It began with the fall of the Western Roman Empire and transitioned into the Renaissance and the Age of Discovery. The Middle Ages is the middle period of the three traditional divisions of Western history: classical antiquity, the medieval period, and the modern period. The medieval period is itself subdivided into the Early, High, and Late Middle Ages.",
 	    "choices": [
