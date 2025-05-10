@@ -51,10 +51,12 @@
     {
         "name": "Productive",
         "friendBonusUniques":  [
-            "[+10]% [Production] [in all cities]", 
+            "[+10]% [Production] [in all cities] <before the [Industrial era]>",
+            "[+20]% [Production] [in all cities] <starting from the [Industrial era]>"
         ],
         "allyBonusUniques":  [
-            "[+10]% [Production] [in all cities]","[+3 Production] [in capital]",
+            "[+10]% [Production] [in all cities] <before from the [Industrial era]>",
+            "[+20]% [Production] [in all cities] <starting from the [Industrial era]>",
             "[+15]% [Production] [in all cities] <when at war>"
         ],
         "color": [255, 255, 255]
