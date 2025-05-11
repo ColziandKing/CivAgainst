@@ -113,13 +113,6 @@
                     "Comment [Greed is not a financial issue. It's a heart issue. -Andy Stanley-]",
                     "Free [Great Merchant] appears <hidden from users>",
                 ]
-            },
-            {
-                "text": "Great Engineer",
-                "uniques": [
-                    "Comment [A person who thinks only about building walls, wherever they may be, and not building bridges is not Christian. This is not in the Gospel. -Pope Francis-]",
-                    "Free [Great Engineer] appears <hidden from users>",
-                ]
             }
         ]
     },
@@ -128,12 +121,12 @@
         "text": "No, in all these things we are more than conquerors through him who loved us. -Romans 8:37-",
 	    "choices": [
             {
-                "text": "Expansion Plan",
+                "text": "Great Engineer",
                 "uniques": [
-                    "Comment [Expansion means complexity and complexity decay. -C. Northcote Parkinson-]",
-                    "Free [Conquistador] appears <hidden from users>",
+                    "Comment [A person who thinks only about building walls, wherever they may be, and not building bridges is not Christian. This is not in the Gospel. -Pope Francis-]",
+                    "Free [Great Engineer] appears <hidden from users>",
                 ]
-            },
+	    },
             {
                 "text": "Great Prophet",
                 "uniques": [
