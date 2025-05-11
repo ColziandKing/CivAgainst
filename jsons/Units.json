@@ -42,7 +42,7 @@
 		"unitType": "Civilian",
 		"requiredTech": "Trapping",
 		"movement": 2,
-		"cost": 106,
+		"cost": 506,
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
 			"Requires at least [3] population"],
 		"hurryCostModifier": 20
@@ -55,7 +55,7 @@
 		"requiredTech": "Trapping",
         "movement": 2,
         "strength": 5,
-        "cost": 106,
+        "cost": 506,
         "uniques": [
             "Founds a new city <by consuming this unit>",
             "Excess Food converted to Production when under construction",
@@ -72,7 +72,7 @@
         "unitType": "Civilian",
 		"requiredTech": "Trapping",
         "movement": 2,
-        "cost": 106,
+        "cost": 506,
         "uniques": [
             "Founds a new city <by consuming this unit>",
             "Requires at least [2] population"
