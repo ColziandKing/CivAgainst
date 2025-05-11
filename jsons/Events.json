@@ -152,6 +152,19 @@
         ]
     },
     {
+        "name": "The Expansion Plan",
+        "text": "Expansion means complexity and complexity decay. -C. Northcote Parkinson-",
+	    "choices": [
+            {
+                "text": "Be fruitful and multiply",
+                "uniques": [
+                    "Comment [And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth. -Genesis 1:28-]",
+                    "Free [Settler] appears <hidden from users>","Free [Settler] appears <hidden from users>",
+                ]
+            }
+        ]
+    },
+    {
         "name": "Renaissance is coming",
         "text": "A period of history and a European cultural movement covering the 15th and 16th centuries. It marked the transition from the Middle Ages to modernity and was characterized by an effort to revive and surpass the ideas and achievements of classical antiquity.",
         "choices": [
