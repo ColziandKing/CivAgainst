@@ -49,6 +49,11 @@
                     "[+1 Culture] for each global city following this religion <for [Byzantium] Civilizations> <hidden from users>"]
     },
     {
+        "name": "Itinerant Preachers",
+        "type": "Founder",
+        "uniques": ["Religion naturally spreads to cities [+4] tiles away"]
+    },
+    {
         "name": "Interfaith Dialogue",
         "type": "Founder",
         "uniques": ["When spreading religion to a city, gain [10] times the amount of followers of other religions as [Science]", 
@@ -71,14 +76,6 @@
         "type": "Founder",
         "uniques": ["[+2 Faith] for each global city following this religion", 
                     "[+1 Culture] for each global city following this religion <for [Byzantium] Civilizations> <hidden from users>"]
-    },
-    {
-        "name": "Religious Unity",
-        "type": "Founder",
-        "uniques": [
-            "[+50]% Natural religion spread [in City-State cities]",
-            "Resting point for Influence with City-States following this religion [+45]"
-        ]
     },
     {
         "name": "Religious Expeditions",
@@ -131,17 +128,6 @@
         "uniques": ["Free [Inquisitor] appears <upon constructing [Courthouse]>", "[+2 Faith] from every [Courthouse]"]
     },
     {
-        "name": "Itinerant Preachers",
-        "type": "Enhancer",
-        "uniques": ["Religion naturally spreads to cities [+5] tiles away",
-            "Only available <after adopting [Reformation]>"]
-    },
-    {
-        "name": "Reliquary",
-        "type": "Enhancer",
-        "uniques": ["Gain [+100] [Faith] <upon expending a [Great Person] unit> <(modified by game speed)>"]
-    },
-    {
         "name": "Sacred Landmarks",
         "type": "Enhancer",
         "uniques": ["[+1 Faith] from every [Land] <within [1] tiles of a [Great Improvement]>", "[-1 Faith] from every [Great Improvement] <hidden from users>"]
@@ -151,6 +137,15 @@
         "type": "Enhancer",
         "uniques": ["Gain [+200] [Faith] <upon expending a [Great Person] unit> <(modified by game speed)>",
             "Only available <after adopting [Reformation]>"]
+    },
+    {
+        "name": "Religious Unity",
+        "type": "Enhancer",
+        "uniques": [
+            "[+50]% Natural religion spread [in City-State cities]",
+            "Resting point for Influence with City-States following this religion [+45]",
+            "Only available <after adopting [Reformation]>"
+        ]
     },
     {
         "name": "Sacred Landmarks",
