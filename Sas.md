@@ -1,4 +1,11 @@
 
+    {
+        "name": "More than conquerors?",
+        "text": "No, in all these things we are more than conquerors through him who loved us. -Romans 8:37-",
+	    "choices": [
+        ]
+    },
+			"Free [Conquistador] appears <upon entering a new era>",
 
         "Triggers a [Industrial Policies] event <upon entering [Industrial era]>",
         "Triggers a [Modern Policies] event <upon entering [Modern era]>",
