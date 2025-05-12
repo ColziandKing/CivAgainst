@@ -113,13 +113,7 @@
                     "Comment [Greed is not a financial issue. It's a heart issue. -Andy Stanley-]",
                     "Free [Great Merchant] appears <hidden from users>",
                 ]
-            }
-        ]
-    },
-    {
-        "name": "More than conquerors?",
-        "text": "No, in all these things we are more than conquerors through him who loved us. -Romans 8:37-",
-	    "choices": [
+            },
             {
                 "text": "Great Engineer",
                 "uniques": [
@@ -153,7 +147,6 @@
                 "uniques": [
                     "Comment [Every day brings new choices. -Martha Beck-]",
 			"Free Great Person <hidden from users>",
-			"Free [Conquistador] appears <hidden from users>",
                 ]
 	    }
         ]
