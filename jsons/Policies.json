@@ -299,6 +299,7 @@
             "[+100]% Production when constructing [Temple] buildings [in all cities]",
             "Only available <before adopting [Expansion]>",
             "Gain enough Faith for [50]% of a Great Prophet",
+	    "Only available <after founding a Pantheon>",
             "[+100]% Production when constructing [Shrine] buildings [in all cities]","Adopt [Pacifism] <hidden from users>",
             "[+1 Culture, +1 Faith] [in capital]", "Adopt [Organized Religion]", 
             "Comment [Unlocks [Hagia Sophia]]","Provides [1] [Policies]","Remove [Paganism] <hidden from users>"
@@ -350,7 +351,7 @@
                 "name": "Religious Orders",
                 "uniques": [
                     "[Faith] cost of purchasing items in cities [-25]%",
-			"Gain a free [Follower] belief"
+			"Gain a free [Follower] belief <after founding a religion>"
                 ],
                 "requires": ["Organized Religion"],
                 "row": 2,
