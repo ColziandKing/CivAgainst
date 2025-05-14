@@ -1833,7 +1833,7 @@ size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/Azibhania
+NationIcons/Aleksandria 
   rotate: false
   xy: 4, 40
   size: 100, 100
