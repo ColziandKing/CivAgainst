@@ -135,43 +135,6 @@
 		"spyNames": ["Ullysia"],
 		"cities": ["Reigna","Thraymond","Proviencia","Liencia","Sheenran","Nippon"]
 	},
-	{
-		"name": "Azibhania",
-		"leaderName": "Aim Peirce",
-		"adjective": ["Bhans/Bhanians"],
-		"startBias": ["Hill","Desert","Jungle"],
-		"preferredVictoryType": "Domination",
-		"favoredReligion": "Islam",
-		
-		"startIntroPart1": "O worshipped you are emperor of the empire of Azibhania! You dominated the young world and they submitted to your authority, jealous are those foreign powers wanting you gone from your viral conquest. Your only ally the Chediluen support you greatly.",
-		"startIntroPart2": "Deity like emperor, show the world that your power flows within Azibhania. Beware of pride for it consumes!",					
-		
-		"declaringWar": "Hah! I knew it, you had secret plans for my demise. My empire is stronger than you",
-		"attacked": "Your lands are mine, I will destroy or keep it. My choice!",
-		"defeated": "Yeah, I dont really care so um. Curse you!!!",
-		"introduction": "Greetings mortal, you don't know me but I am a deity. Don't worshipped me but know my empire is great",
-		"neutralHello": "Ah! You've come.",		
-		"neutralLetsHearIt": "You have something for my empire, is it beneficial?",
-		"neutralNo": "I uh, no thanks.",
-		"neutralYes": "You know how to bring me greatness.",
-		"hateHello": "Hey, peasant. Your kingdom? Oh, you mean my empire.",	
-		"hateLetsHearIt": "You are taking too much time.",
-		"hateNo": "I don't like you, but your kingdom I like.",
-		"hateYes": "You know how to save yourself, impress I am. I hope you think wise and give me your kingdom, I will make you my satrap and your home my suzerainee.",
-		"afterPeace": "This is just so I could destroy you soon.",
-		"tradeRequest": "Hey friend or rival. Lookie here, some supplies.",
-		
-		"outerColor": [10,10,10],
-		"innerColor": [245,245,245],
-		"uniqueName": "Sharia",
-		"uniques": ["Empire enters golden age <upon declaring war with a major Civilization>",
-			"[+7 Production] from every [Mountain]","Starts with [Order] adopted","Starts with [Autocracy] adopted",
-       "Free [Settler] appears <upon discovering [Trapping]>","Free [Settler] appears <upon discovering [Trapping]> <hidden from users>",
-			"Free [Settler] appears <upon discovering [Horseback Riding]>","Free [Settler] appears <upon discovering [Horseback Riding]> <hidden from users>",
-			"New [{Land} {Military}] units start with [15] XP [in this city]", "[+1 Gold] per [3] social policies adopted",
-		"May choose [1] additional belief(s) of any type when [founding] a religion","Cannot build [Settler] units <hidden from users>",]
-		"cities": ["Azibhania Fortspance","Uemsphire Citadel","Ravimines Deposit","Umiratae","Karavany","Harimyar Ount"]
-	},
     {
         "name": "Philippines",
         "leaderName": "Emilio Aguinaldo",
