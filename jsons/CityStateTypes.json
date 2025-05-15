@@ -67,7 +67,7 @@
             "[+10]% [Science] [in all cities]", 
         ],
         "allyBonusUniques":  [
-            "[+10]% [Science] [in all cities]","[+2 Science] [in capital]",
+            "[+10]% [Science] [in all cities]","[+3 Science] [in capital]",
             "[+15]% [Science] [in all cities] <when not at war>"
         ],
         "color": [255, 255, 255]
