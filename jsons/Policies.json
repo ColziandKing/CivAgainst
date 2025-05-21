@@ -443,7 +443,6 @@
             {
                 "name": "Educated Elite",
                 "uniques": [
-                    "Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns",
 			"Allied City-States will occasionally gift Great People","Provides [1] [Policies]"
                 ],
                 "requires": ["Cultural Diplomacy","United Front"],
@@ -790,8 +789,6 @@
             {
                 "name": "Relations Complete",
                 "uniques": [
-                    "Influence of all other civilizations with all city-states degrades [33]% faster",
-                    "Triggers the following global alert: [Our influence with City-States has started dropping faster!]",
                     "Comment [Promotes all spies 1 time(s)] <when espionage is enabled>", "Comment [New spies start with 1 level(s)] <when espionage is enabled>", "Promotes all spies [1] time(s) <when espionage is enabled> <hidden from users>", "New spies start with [1] level(s) <when espionage is enabled> <hidden from users>",
 			"Comment [Resting point for Influence with City-States is increased by 10] <when espionage is disabled>", "Comment [Reveal the locations of the cities of the City-States encountered] <when espionage is disabled>", "Resting point for Influence with City-States is increased by [10] <when espionage is disabled> <hidden from users>", "Reveal up to [All] [City center] within a [200] tile radius <when espionage is disabled> <hidden from users>"
                 ]
