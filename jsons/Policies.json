@@ -443,8 +443,6 @@
             {
                 "name": "Educated Elite",
                 "uniques": [
-			"Can spend Gold to annex or puppet a City-State that has been your Ally for [20] turns <upon discovering [Civil Service] technology> <before discovering [Radio]>",
-                        "Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns <upon discovering [Calendar] technology> <for [Holy Roman Empire] Civilizations> <hidden from users>",
 			"Allied City-States will occasionally gift Great People","Provides [1] [Policies]"
                 ],
                 "requires": ["Cultural Diplomacy","United Front"],
