@@ -898,7 +898,7 @@
         ]
     },
     {
-        "name": "Rationalism",
+        "name": "Rationality",
         "era": "Renaissance era",
         "uniques": [ 
 		"Adopt [Free Thought]",
@@ -977,7 +977,7 @@
 			},
 
             {
-                "name": "Rationalism Complete",
+                "name": "Rationality Complete",
                 "uniques": [
                     "[10]% [Science] <while the empire is happy>"
                 ]
