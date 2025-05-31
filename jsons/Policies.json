@@ -1422,7 +1422,7 @@
                 "name": "Total War",
                 "uniques": [
                     "[+25]% Production when constructing [Military] units [in all cities]",
-                    "New [Military] units start with [15] Experience [in all cities]","Provides [1] [Policies]"
+                    "New [Military] units start with [15] XP [in all cities]","Provides [1] [Policies]"
                 ],
                 "requires": ["Militarism","Lightning Warfare"],
                 "row": 3,
