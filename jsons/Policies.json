@@ -898,7 +898,7 @@
         ]
     },
     {
-        "name": "Rationality",
+        "name": "Rationalism",
         "era": "Renaissance era",
         "uniques": [ 
 		"Adopt [Free Thought]",
@@ -977,7 +977,7 @@
 			},
 
             {
-                "name": "Rationality Complete",
+                "name": "Rationalism Complete",
                 "uniques": [
                     "[10]% [Science] <while the empire is happy>"
                 ]
@@ -1658,21 +1658,4 @@
             }
         ]
             },
-    {
-        "name": "Rationalism",
-        "era": "Renaissance era",
-        "uniques": [ 
-		"Adopt [Free Thought]","Will not be displayed in Civilopedia", "Will not be chosen for new games",
-            "[Great Scientist] is earned [20]% faster","Unavailable",
-            "Comment [Unlocks [Porcelain Tower]]","Provides [1] [Policies]",
-        ],
-        "policies": [
-	{
-	    "name": "Rationalism Complete",
-                "uniques": [
-                    "[10]% [Science] <while the empire is happy>"
-                ]
-            }
-        ]
-    },
         ]
