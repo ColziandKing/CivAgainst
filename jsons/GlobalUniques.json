@@ -19,7 +19,7 @@
         "[-55]% Strength <for [Siege] units> <when between [1] and [100] Happiness>",
         "[-55]% Strength <for [Mounted] units> <when between [1] and [100] Happiness>",
 			"[4] Unit Supply per [4] population [in all cities]",
-			"[-20] Unit Supply per city",
+			"[-10] Unit Supply per city",
         "[+25]% [Happiness] [in capital] <for [Judaism] Civilizations>",
         "[+25]% [Happiness] [in capital] <for [Reformative] Civilizations>",
         "[+25]% [Faith] [in capital] <for [Christianity] Civilizations>",
