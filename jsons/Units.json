@@ -42,7 +42,7 @@
         "range": 5,
         "interceptRange": 5,
         "cost": 360,
-        "requiredTech": "Agriculture",,
+        "requiredTech": "Agriculture",
         "upgradesTo": "Fighter",
         "obsoleteTech": "Flight",
         "uniques": [
