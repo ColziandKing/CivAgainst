@@ -29,7 +29,7 @@
         "Militaristic City-States grant units [2] times as fast when you are at war with a common nation",
         
         "Triggers a [A great person is born!] event <upon entering a new era>",
-        //"Triggers a [Civilization begins] event <upon entering a new era>",
+        "Triggers a [Civilization begins] event <upon discovering [Agriculture]>",
 
 	    
         //"Triggers a [Social Policy or Technology] event <upon entering a new era>",
