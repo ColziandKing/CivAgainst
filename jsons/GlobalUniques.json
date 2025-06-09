@@ -11,7 +11,7 @@
         "[-1] Sight <for [Embarked] units>",
         "Enables Open Borders agreements",
         "Enables Defensive Pacts",
-                "[-200]% Production when constructing [All] buildings [in all cities]",
+                "[-100]% Production when constructing [All] buildings [in all cities]",
 			"[4] Unit Supply per [4] population [in all cities]",
 			"[-10] Unit Supply per city",
         "[+25]% [Happiness] [in capital] <for [Judaism] Civilizations>",
