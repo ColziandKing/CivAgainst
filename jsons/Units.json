@@ -107,7 +107,7 @@
 		"name": "Mandekalu Ghazi",
 		"unitType": "Mounted",
 		"replaces": "Knight",
-		"uniqueTo": "Azibhania",
+		"uniqueTo": "Kilwa",
 		"movement": 4,
 		"strength": 66,
 		"cost": 220,
@@ -115,7 +115,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"uniques": ["Can move after attacking","Self-destructs when attacking","No defensive terrain bonus"],
 		"attackSound": "horse"
 	},
 	{
