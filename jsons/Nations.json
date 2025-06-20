@@ -184,7 +184,10 @@
         "outerColor": [88,145,228],
         "innerColor": [80,23,135],
         "uniqueName": "Patriarchate of Constantinople",
-        "uniques": ["Gain a free [Founder] belief <upon founding a Religion>"],
+        "uniqueText": "Gain a free [Founder] belief upon founding a Religion and an army of Cataphracts appears upon discovering Horseback Riding technology",
+        "uniques": ["Gain a free [Founder] belief <upon founding a Religion>","Free [Cataphract] appears <upon discovering [Horseback Riding] technology>",
+		"Free [Cataphract] appears <upon discovering [Horseback Riding] technology>","Free [Cataphract] appears <upon discovering [Horseback Riding] technology>",
+		"Free [Cataphract] appears <upon discovering [Horseback Riding] technology>","Free [Cataphract] appears <upon discovering [Horseback Riding] technology>",],
         "cities": [
             "Constantinople","Adrianople","Nicaea","Antioch","Varna","Ohrid","Nicomedia","Trebizond","Cherson","Sardica",
             "Ani","Dyrrachium","Edessa","Chalcedon","Naissus","Bari","Iconium","Prilep","Samosata","Kars",
