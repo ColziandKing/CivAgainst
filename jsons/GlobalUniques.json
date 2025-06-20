@@ -13,7 +13,7 @@
         "Enables Defensive Pacts",
 			"[4] Unit Supply per [4] population [in all cities]",
 			"[-2] Unit Supply per city",
-                "[-150]% Production when constructing [All] buildings [in all cities]",
+                "[+50]% Production when constructing [All] buildings [in all cities]",
         "[+25]% [Happiness] [in capital] <for [Judaism] Civilizations>",
         "[+25]% [Happiness] [in capital] <for [Reformative] Civilizations>",
         "[+25]% [Faith] [in capital] <for [Christianity] Civilizations>",
